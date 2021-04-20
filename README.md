@@ -4,6 +4,10 @@
 
 * Versatile Yet Lightweight Record-and-replay for Android (OOPSLA'15)
 
+* MobiPlay: A Remote Execution Based Record-and-replay Tool for Mobile Applications (ICSE'16)
+
+* Mosaic: cross-platform user-interaction record and replay for the fragmented android ecosystem (ICSE'16)
+
 * A Large-Scale Longitudinal Study of Flaky Tests (OOPSLA'20) http://taoxie.cs.illinois.edu/publications/oopsla20-flaky.pdf
 
 * An Empirical Analysis of UI-based Flaky Tests （ICSE'21) https://ui-flaky-test.github.io/ 
