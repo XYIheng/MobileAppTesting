@@ -2,6 +2,12 @@
 
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
 
+* Record and replay for Android: are we there yet in industrial cases? （ESEC/FSE '17)
+
+* RANDR: Record and Replay for Android Applications via Targeted Runtime Instrumentation (ASE'19)
+
+* Translating video recordings of mobile app usages into replayable scenarios (ICSE'20)
+
 * Versatile Yet Lightweight Record-and-replay for Android (OOPSLA'15)
 
 * MobiPlay: A Remote Execution Based Record-and-replay Tool for Mobile Applications (ICSE'16)
