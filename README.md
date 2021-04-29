@@ -1,3 +1,49 @@
+### Testing
+
+* A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
+
+  *  Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
+  + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
+  + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
+  + Automated Concolic Testing of Smartphone Apps, FSE 2012
+  + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
+  + Automated Testing with Targeted Event Sequence Generation, ISSTA 2013 (tool: Collider)
+  + Dynodroid: An Input Generation System for Android Apps, ESEC/FSE 2013 (tool: Dynodroid)
+  + Automated Test Input Generation for Android: Are We There Yet? ASE 2015
+  + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
+  + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
+  + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
+  + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
+  + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)
+  + Automatic Input Generation for Mobile Testing, ICSE 2017
+  + Guided, Stochastic Model-Based GUI Testing of Android Apps, FSE 2017 (tool: Stoat)
+  + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
+  + PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
+  + Enabling Mutation Testing for Android Apps, FSE 2017 (tool: MDroid+)
+  + Continuous, Evolutionary and Large-Scale: A New Perspective for Automated Mobile App Testing, ICSME 2017
+  + Systematically Testing Background Services of Mobile Apps, ASE 2017 (tool: Snowdrop)
+  + Crowd Intelligence Enhances Automated Mobile Testing, ASE 2017 (tool: Polariz)
+  + EHBDroid: Beyond GUI Testing for Android Applications, ASE 2017 (tool: EHBDroid)
+  + Sketch-guided GUI test generation for mobile applications, ASE 2017 
+  + SimplyDroid: efficient event sequence simplification for Android application, ASE 2017 (tool: DimplyDroid)
+  + Automated cross-platform inconsistency detection for mobile apps, ASE 2017 (tool: DiffDroid)
+  + DetReduce: Minimizing Android GUI Test Suites for Regression Testing, ICSE 2018
+  + Efficiently Manifesting Asynchronous Programming Errors in Android Apps, ASE 2018 (tool: APEChecker)
+  + An Empirical Study of Android Test Generation Tools in Industrial Cases, ASE 2018
+  + Practical GUI testing of Android applications via model abstraction and refinement, ICSE 2019
+  + Mimic: UI Compatibility Testing System for Android Apps, ICSE 2019 (tool: Mimic)
+  + DaPanda: Detecting Aggressive Push Notification in Android Apps, ASE 2019 (tool: DaPanda)
+  +	Goal-Driven Exploration for Android Applications, ASE 2019 (tool: GoalExplorer)
+  +	Test Transfer Across Mobile Apps Through Semantic Mapping, ASE 2019 (tool: CraftDroid)
+  +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
+  +	Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
+
+
+
+
+
+
+
 ### Reproduce & Flaky 
 
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
@@ -72,4 +118,3 @@
   https://par.nsf.gov/servlets/purl/10111143
 
   
-
