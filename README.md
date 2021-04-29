@@ -1,8 +1,8 @@
 ### Testing
 
-* A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
+  + A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
 
-  *  Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
+  +  Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
   + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
   + Automated Concolic Testing of Smartphone Apps, FSE 2012
