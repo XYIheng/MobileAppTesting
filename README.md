@@ -35,8 +35,8 @@
   +	Goal-Driven Exploration for Android Applications, ASE 2019 (tool: GoalExplorer)
   +	Test Transfer Across Mobile Apps Through Semantic Mapping, ASE 2019 (tool: CraftDroid)
   +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
-  +	Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
-  +	Automated Classification of Actions in Bug Reports of Mobile Apps （ISSTA '20)
+  + Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
+  +	Automated classification of actions in bug reports of mobile apps (ISSTA'20)
 
 
 
@@ -45,6 +45,8 @@
 
 
 ### Reproduce & Flaky 
+
+* LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE'19)
 
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
 
