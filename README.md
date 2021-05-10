@@ -1,7 +1,6 @@
 ### Testing
 
   + A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
-
   +  Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
   + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
@@ -37,6 +36,7 @@
   +	Test Transfer Across Mobile Apps Through Semantic Mapping, ASE 2019 (tool: CraftDroid)
   +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
   +	Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
+  +	Automated Classification of Actions in Bug Reports of Mobile Apps （ISSTA '20)
 
 
 
