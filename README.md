@@ -63,13 +63,12 @@
 
 * Mosaic: cross-platform user-interaction record and replay for the fragmented android ecosystem (ICSE'16)
 
-* A Large-Scale Longitudinal Study of Flaky Tests (OOPSLA'20) http://taoxie.cs.illinois.edu/publications/oopsla20-flaky.pdf
+* [A Large-Scale Longitudinal Study of Flaky Tests](http://taoxie.cs.illinois.edu/publications/oopsla20-flaky.pdf)(OOPSLA'20) 
 
-* An Empirical Analysis of UI-based Flaky Tests （ICSE'21) https://ui-flaky-test.github.io/ 
+* [An Empirical Analysis of UI-based Flaky Tests]( https://ui-flaky-test.github.io/ ) （ICSE'21)
 
-* Concurrency-related Flaky Test Detection in Android Apps
-  https://arxiv.org/pdf/2005.10762.pdf
-
+* [Concurrency-related Flaky Test Detection in Android Apps](https://arxiv.org/pdf/2005.10762.pdf)
+  
 * iDFlakies: A framework for detecting and partially classifying flaky tests. (ICST'19)
   https://taoxie.cs.illinois.edu/publications/icst19-idflakies.pdf
 
