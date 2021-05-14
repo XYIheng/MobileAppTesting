@@ -37,8 +37,9 @@
   +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
   + Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
   +	Automated classification of actions in bug reports of mobile apps (ISSTA'20)
+  +	Static Window Transition Graphs for Android （ASE '18)
 
-
+* Practical GUI Testing of Android Applications Via Model Abstraction and Refinement （ICSE'19)
 
 
 
