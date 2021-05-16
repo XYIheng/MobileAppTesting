@@ -1,49 +1,122 @@
-### Testing
+### Android Testing and Analysis
 
-  + A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
-  +  Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
-  + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
-  + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
-  + Automated Concolic Testing of Smartphone Apps, FSE 2012
-  + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
-  + Automated Testing with Targeted Event Sequence Generation, ISSTA 2013 (tool: Collider)
-  + Dynodroid: An Input Generation System for Android Apps, ESEC/FSE 2013 (tool: Dynodroid)
-  + Automated Test Input Generation for Android: Are We There Yet? ASE 2015
-  + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
-  + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
-  + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
-  + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
-  + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)
-  + Automatic Input Generation for Mobile Testing, ICSE 2017
-  + Guided, Stochastic Model-Based GUI Testing of Android Apps, FSE 2017 (tool: Stoat)
-  + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
-  + PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
-  + Enabling Mutation Testing for Android Apps, FSE 2017 (tool: MDroid+)
-  + Continuous, Evolutionary and Large-Scale: A New Perspective for Automated Mobile App Testing, ICSME 2017
-  + Systematically Testing Background Services of Mobile Apps, ASE 2017 (tool: Snowdrop)
-  + Crowd Intelligence Enhances Automated Mobile Testing, ASE 2017 (tool: Polariz)
-  + EHBDroid: Beyond GUI Testing for Android Applications, ASE 2017 (tool: EHBDroid)
-  + Sketch-guided GUI test generation for mobile applications, ASE 2017 
-  + SimplyDroid: efficient event sequence simplification for Android application, ASE 2017 (tool: DimplyDroid)
-  + Automated cross-platform inconsistency detection for mobile apps, ASE 2017 (tool: DiffDroid)
-  + DetReduce: Minimizing Android GUI Test Suites for Regression Testing, ICSE 2018
-  + Efficiently Manifesting Asynchronous Programming Errors in Android Apps, ASE 2018 (tool: APEChecker)
-  + An Empirical Study of Android Test Generation Tools in Industrial Cases, ASE 2018
-  + Practical GUI testing of Android applications via model abstraction and refinement, ICSE 2019
-  + Mimic: UI Compatibility Testing System for Android Apps, ICSE 2019 (tool: Mimic)
-  + DaPanda: Detecting Aggressive Push Notification in Android Apps, ASE 2019 (tool: DaPanda)
-  +	Goal-Driven Exploration for Android Applications, ASE 2019 (tool: GoalExplorer)
-  +	Test Transfer Across Mobile Apps Through Semantic Mapping, ASE 2019 (tool: CraftDroid)
-  +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
-  + Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
-  +	Automated classification of actions in bug reports of mobile apps (ISSTA'20)
-  +	Static Window Transition Graphs for Android （ASE '18)
+### ASE
 
-* Practical GUI Testing of Android Applications Via Model Abstraction and Refinement （ICSE'19)
+  + 2020
+      + Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android
+      + Systematic Execution of Android Test Suites in Adverse Conditions
+      + UI obfuscation and its effects on automated UI analysis for Android apps
+      + Automated third-party library detection for Android applications: are we there yet?
+      + Owl eyes: spotting UI display issues via visual understanding
+      + Test automation in open-source android apps
++ 2019
+  + Humanoid: a deep learning-based approach to automated black-box Android app testing
+  + Test transfer across mobile apps through semantic mapping
+  + Goal-driven exploration for Android applications
+  + Randr: Record and replay for android applications via targeted runtime instrumentation
+  + LIRAT: layout and image recognition driving automated mobile testing of cross-platform
+  + DaPanda: detecting aggressive push notifications in Android apps
+  + Test migration between mobile apps with similar functionality
+  + MutAPK: source-codeless mutant generation for Android apps
+  + Automating app review response generation
+  + A qualitative analysis of Android taint-analysis results
+  + OAuthLint: an empirical study on OAuth bugs in Android applications
+  + Demystifying application performance management libraries for Android
+  + Characterizing Android app signing issues
++ 2018
+  + An empirical study of android test generation tools in industrial cases
+  + Understanding and detecting evolution-induced compatibility issues in Android apps
+  + Understanding and detecting callback compatibility issues for Android applications
+  + Efficiently manifesting asynchronous programming errors in Android apps
+  + On adopting linters to deal with performance concerns in Android apps
+  + Self-protection of Android systems from inter-component communication attacks
+  + A tale of two cities: how WebView induces bugs to Android applications
+  + Characterizing and identifying misexposed activities in Android applications
+  + Dual-force: understanding WebView malware via cross-language forced execution
++ 2017
+  + SimplyDroid: efficient event sequence simplification for Android application
+  + EHBDroid: beyond GUI testing for Android applications
+  + Sketch-guided gui test generation for mobile applications
+  + Systematically testing background services of mobile apps
+  + UI driven Android application reduction
+  + ANDROFLEET: testing WiFi peer-to-peer mobile apps in the large
+  + Automated cross-platform inconsistency detection for mobile apps
+  + Systematic reduction of GUI test sequences
+  + EventFlowSlicer: a tool for generating realistic goal-driven GUI tests
+  + Crowd intelligence enhances automated mobile testing
++ 2016
+  + Automated model-based Android GUI testing using multi-level GUI comparison criteria
+  + Reflection-aware static analysis of Android apps
+  + Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps
+  + Relda2: an effective static analysis tool for resource leak detection in Android apps.
 
+### ISSTA
 
+* 2020
+  * Data loss detector: automatically revealing data loss bugs in Android apps
+  * Automated classification of actions in bug reports of mobile apps
+* 2019
+  * SARA: self-replay augmented record and replay for Android in industrial cases
+  * Improving random GUI testing with image-based widget detection
+  * TestMig: migrating GUI test cases from iOS to Android
+  * Mining Android crash fixes in the absence of issue- and change-tracking systems
+  * LibID: reliable identification of obfuscated third-party Android libraries
+  * QADroid: regression event selection for Android applications
+  * Learning user interface element interactions
+* 2018
+  * Automatically translating bug reports into test cases for mobile apps
+  * LAND: a user-friendly and customizable test generation tool for Android apps
+  * CiD: automating the detection of API-related compatibility issues in Android apps
+  * Test migration for efficient large-scale assessment of mobile app coding assignments
+* 2017
+  * Data flow oriented UI testing: exploiting data flows and UI elements to test Android applications
+  * Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications
+* 2016
+  * Monkey see, monkey do: effective generation of GUI tests with inferred macro events
+  * Sapienz: multi-objective automated testing for Android applications
+  * DroidRA: taming reflection to support whole-program analysis of Android apps
+  * Energy-aware test-suite minimization for android apps
+* 2015
+  * Systematic execution of android test suites in adverse conditions
 
+### ICSE
 
+* 2020
+
+  * Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning
+  * Translating video recordings of mobile app usages into replayable scenarios
+  * Multiple-entry testing of Android applications by constructing activity launching contexts
+  * How Android developers handle evolution-induced API compatibility issues: a large-scale study
+  * ComboDroid: generating high-quality test inputs for Android apps via use case combinations
+  * RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications
+  * Time-travel testing of Android apps
+  * An empirical assessment of security risks of global Android banking apps
+  * Accessibility issues in Android apps: state of affairs, sentiments, and ways forward
+  * Collaborative bug finding for Android apps
+
+* 2019
+  * IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps
+  * Mimic: UI compatibility testing system for Android apps
+  * Search-based energy testing of Android
+  * Practical GUI testing of Android applications via model abstraction and refinement
+  * Towards understanding and reasoning about Android interoperations
+* 2018
+  * Automated reporting of GUI design violations for mobile apps
+  * Leveraging program analysis to reduce user-perceived latency in mobile applications
+  * Software protection on the go: a large-scale empirical study on mobile app obfuscation
+  * Repairing crashes in Android apps
+  * DetReduce: minimizing Android GUI test suites for regression testing
+  * Studying the dialogue between users and developers of free apps in the google play store
+* 2017
+  * Analysis and testing of notifications in Android wear applications
+  * Adaptive unpacking of Android apps
+  * Automatic text input generation for mobile testing
+  * LibD: scalable and precise third-party library detection in android markets
+* 2016
+  * Reducing combinatorics in GUI testing of android applications
+  * MobiPlay: a remote execution based record-and-replay tool for mobile applications
+  * VDTest: an automated framework to support testing for virtual devices
+  * PRADA: prioritizing android devices for apps by mining large-scale usage data
 
 ### Reproduce & Flaky 
 
