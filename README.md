@@ -6,7 +6,6 @@ Recent paper related to Android testing and Analysis
 
   + 2020
       + Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android
-      + Systematic Execution of Android Test Suites in Adverse Conditions
       + UI obfuscation and its effects on automated UI analysis for Android apps
       + Automated third-party library detection for Android applications: are we there yet?
       + Owl eyes: spotting UI display issues via visual understanding
