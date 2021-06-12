@@ -167,3 +167,16 @@ Recent paper related to Android testing and Analysis
   https://par.nsf.gov/servlets/purl/10111143
 * [An Empirical Study of Flaky Tests in Android Apps](https://people.cs.vt.edu/nm8247/publications/empirical-study-flaky-pdf.pdf) (ICSME'2018)
 
+### Test Event Reduction
+
+* [Efficient testing of GUI applications by event sequence reduction](https://www.researchgate.net/publication/343619960_Efficient_testing_of_GUI_applications_by_event_sequence_reduction)(Science of Computer Programming '2021)
+* [Understanding Ineffective Events and Reducing Test Sequences for Android Applications](https://www.researchgate.net/profile/Jiwei-Yan/publication/337643189_Understanding_Ineffective_Events_and_Reducing_Test_Sequences_for_Android_Applications/links/5e4e240c92851c7f7f48befb/Understanding-Ineffective-Events-and-Reducing-Test-Sequences-for-Android-Applications.pdf) (TASE '2019)
+* [Event trace reduction for effective bug replay of Android apps via differential GUI state analysis](https://opus.lib.uts.edu.au/bitstream/10453/137409/4/fse2019%20%281%29.pdf) (ESEC/FSE '2019)
+* [Context-based event trace reduction in client-side JavaScript applications](http://www.tcse.cn/~wsdou/papers/2018-icst-evmin.pdf) (icst '2018)
+* [DetReduce: minimizing Android GUI test suites for regression testing](https://dl.acm.org/doi/pdf/10.1145/3180155.3180173) (ICSE '2018)
+* [SimplyDroid: Efficient event sequence simplification for android application](http://jiangbo.buaa.edu.cn/ASE17.pdf) (ASE '2017)
+* [Systematic reduction of GUI test sequences](https://cs.wmich.edu/~zijiang/pub/ase17preprint.pdf) (ASE '2017)
+* [Constraint-based event trace reduction](http://www.tcse.cn/~wsdou/papers/2016-fse-src.pdf) (FSE '2016)
+* [Minimizing GUI event traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf)  (FSE '2016)
+* [On the use of delta debugging to reduce recordings and facilitate debugging of web applications](https://dl.acm.org/doi/abs/10.1145/2786805.2786846) (ESEC/FSE '2015)
+
