@@ -180,3 +180,8 @@ Recent paper related to Android testing and Analysis
 * [Minimizing GUI event traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf)  (FSE '2016)
 * [On the use of delta debugging to reduce recordings and facilitate debugging of web applications](https://dl.acm.org/doi/abs/10.1145/2786805.2786846) (ESEC/FSE '2015)
 
+### Non-crash bug
+
+* [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
+* [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
+
