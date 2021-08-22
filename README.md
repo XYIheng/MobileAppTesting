@@ -8,11 +8,11 @@ Recent paper related to Android testing and Analysis
 
 [ICSE](#icse)
 
-[Reproduce&Flaky](#reproduce&flaky)
+[Reproduce Flaky](#reproduce-flaky)
 
-[Test Event Reduction](#test event reduction)
+[Test Event Reduction](#test-event-reduction)
 
-[Non-crash bug](#non-crash bug)
+[Non-crash bug](#non-crash-bug)
 
 ### ASE
 
