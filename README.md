@@ -131,7 +131,7 @@ Recent paper related to Android testing and Analysis
   * VDTest: an automated framework to support testing for virtual devices
   * PRADA: prioritizing android devices for apps by mining large-scale usage data
 
-### Reproduce&Flaky 
+### Reproduce Flaky 
 
 * LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE'19)
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
