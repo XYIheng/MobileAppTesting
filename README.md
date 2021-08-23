@@ -186,3 +186,5 @@ Recent paper related to Android testing and Analysis
 * [Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
 
 * [Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
+
+* Is this the lifecycle we really want?: an automated black-box testing approach for Android activities  (INTUITESTBEDS 2018)
