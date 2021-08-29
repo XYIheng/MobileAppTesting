@@ -131,6 +131,16 @@ Recent paper related to Android testing and Analysis
   * VDTest: an automated framework to support testing for virtual devices
   * PRADA: prioritizing android devices for apps by mining large-scale usage data
 
+### ESEC/FSE
+
+* 2021
+
+  * [Benchmarking Automated GUI Testing for Android against Real-World Bugs](https://tingsu.github.io/files/fse21-themis.pdf)
+
+  * [Checking Conformance of Applications against GUI Policies](https://2021.esec-fse.org/track/fse-2021-papers?#)
+
+  * Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps
+
 ### Reproduce Flaky 
 
 * LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE '19)
