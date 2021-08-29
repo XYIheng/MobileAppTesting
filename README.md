@@ -8,6 +8,8 @@ Recent paper related to Android testing and Analysis
 
 [ICSE](#icse)
 
+[ESEC/FSE](#esecfse)
+
 [Reproduce Flaky](#reproduce-flaky)
 
 [Test Event Reduction](#test-event-reduction)
@@ -137,9 +139,9 @@ Recent paper related to Android testing and Analysis
 
   * [Benchmarking Automated GUI Testing for Android against Real-World Bugs](https://tingsu.github.io/files/fse21-themis.pdf)
 
-  * [Checking Conformance of Applications against GUI Policies](https://2021.esec-fse.org/track/fse-2021-papers?#)
+  * [Checking Conformance of Applications against GUI Policies](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_2.pdf)
 
-  * Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps
+  * [Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf)
 
 ### Reproduce Flaky 
 
