@@ -96,9 +96,23 @@ Recent paper related to Android testing and Analysis
 
 ### ICSE
 
-* 2020
+* 2021
 
-  * Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning
+  * [ATVHunter: Reliable Version Detection of Third-Party Libraries for Vulnerability Identification in Android Apps](https://arxiv.org/pdf/2102.08172.pdf)
+  * [An Empirical Analysis of UI-based Flaky Tests](https://arxiv.org/pdf/2103.02669.pdf)
+  * [An Empirical Assessment of Global COVID-19 Contact Tracing Applications](https://arxiv.org/pdf/2006.10933.pdf)
+  * [An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications](https://chenzhenpeng18.github.io/papers/ICSE21.pdf)
+  * [App's Auto-Login Function Security Testing via Android OS-Level Virtualization](https://arxiv.org/pdf/2103.03511.pdf)
+  * [Automatically Matching Bug Reports With Related App Reviews](https://arxiv.org/pdf/2102.07134.pdf)
+  * [ Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines](https://xin-xia.github.io/publication/icse213.pdf)
+  * [Layout and Image Recognition Driving Cross-Platform Automated Mobile Testing](https://arxiv.org/pdf/2008.05182.pdf)
+  * [It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports](https://arxiv.org/pdf/2101.09194.pdf)
+
+  * [Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding](https://arxiv.org/pdf/2102.09747.pdf)
+  * [RAICC: Revealing Atypical Inter-Component Communication in Android Apps](https://arxiv.org/pdf/2012.09916.pdf)
+
+* 2020
+  * [LABLEDROID: Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning](https://arxiv.org/pdf/2003.00380.pdf)
   * Translating video recordings of mobile app usages into replayable scenarios
   * Multiple-entry testing of Android applications by constructing activity launching contexts
   * How Android developers handle evolution-induced API compatibility issues: a large-scale study
@@ -108,7 +122,7 @@ Recent paper related to Android testing and Analysis
   * An empirical assessment of security risks of global Android banking apps
   * Accessibility issues in Android apps: state of affairs, sentiments, and ways forward
   * Collaborative bug finding for Android apps
-
+  
 * 2019
   * IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps
   * Mimic: UI compatibility testing system for Android apps
