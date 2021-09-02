@@ -154,8 +154,8 @@ Recent paper related to Android testing and Analysis
   * [Benchmarking Automated GUI Testing for Android against Real-World Bugs](https://tingsu.github.io/files/fse21-themis.pdf)
   * [Checking Conformance of Applications against GUI Policies](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_2.pdf)
   * [Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf)
-  * [An Empirical Study of GUI Widget Detection for Industrial Mobile Games  Reproduce Flaky](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf) 
-
+  * [An Empirical Study of GUI Widget Detection for Industrial Mobile Games  ](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf) 
+### Reproduce Flaky
 * LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE '19)
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
 * Record and replay for Android: are we there yet in industrial cases? （ESEC/FSE '17)
