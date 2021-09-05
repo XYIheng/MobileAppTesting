@@ -201,13 +201,43 @@ Recent paper related to Android testing and Analysis
 * [Minimizing GUI event traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf)  (FSE '2016)
 * [On the use of delta debugging to reduce recordings and facilitate debugging of web applications](https://dl.acm.org/doi/abs/10.1145/2786805.2786846) (ESEC/FSE '2015)
 
-### Non-crash bug
+### Non-crashing bug
 
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
+
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
 
-* [Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
-
-* [Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
+* [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
 
 * Is this the lifecycle we really want?: an automated black-box testing approach for Android activities  (INTUITESTBEDS 2018)
+
+* 
+
+
+
+#### Human-provided oracles to find non-crashing bugs
+
+  * [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
+  * ChimpCheck: property-based randomized test generation for interactive apps
+  * AppFlow: using machine learning to synthesize robust, reusable UI tests (ESEC/FSE '2018)
+  * Automation of Android applications functional testing using machine learning activities classification (MOBILESofT '2018)
+  * Test Migration Between Mobile Apps with Similar Functionality (ASE '2019)
+  * Test Transfer Across Mobile Apps Through Semantic Mapping (ASE '2019)
+  * Reinforcement Learning-Driven Test Generation for Android GUI Applications using Formal Specifications (ARXIV '2019)
+  * Augusto: exploiting popular functionalities for the generation of semantic GUI tests with Oracles (ICSE '2018)
+  * Automated test oracles for GUIs (FSE '2000)
+  * What Test Oracle Should I Use for Effective GUI Testing? (ASE '2003)
+  * Designing and comparing automated test oracles for GUI-based software applications (ACM Trans. Softw. Eng. Methodol '2007)
+  * ReNaLART: Automating test oracles from restricted natural language agile requirements (Expert Syst. J. Knowl. Eng '2021)
+
+#### Uses differential testing to overcome the oracle problem
+
+* SPAG-C: On the Accuracy, Efficiency, and Reusability of Automated Test Oracles for Android Devices (IEEE Trans. Software Eng)
+
+* DIFFDROID: Automated cross-platform inconsistency detection for mobile apps (ASE '2017)
+
+#### Generates automated oracles for a specific class of user interactions
+
+* [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
+* [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
+* [ACETON: Automated construction of energy test oracles for Android](https://reyhaneh.cs.illinois.edu/pdfs/2020_FSE_Automated.pdf) (ESEC/FSE '2020)
