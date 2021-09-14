@@ -23,7 +23,9 @@ Recent paper related to Android testing and Analysis
       + UI obfuscation and its effects on automated UI analysis for Android apps
       + Automated third-party library detection for Android applications: are we there yet?
       + Owl eyes: spotting UI display issues via visual understanding
-      + Test automation in open-source android apps
+      + Test automation in Open-Source Android Apps: A Large-Scale Empirical Study
+      + ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android
+      + Speeding up GUI Testing by On-Device Test Generation
 + 2019
   + Humanoid: a deep learning-based approach to automated black-box Android app testing
   + Test transfer across mobile apps through semantic mapping
