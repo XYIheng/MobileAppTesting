@@ -24,7 +24,7 @@ Recent paper related to Android testing and Analysis
       + Automated third-party library detection for Android applications: are we there yet?
       + Owl eyes: spotting UI display issues via visual understanding
       + Test automation in Open-Source Android Apps: A Large-Scale Empirical Study
-      + ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android
+      + [ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android](http://seal.ics.uci.edu/publications/2020_ASE_ERCatcher.pdf)
       + Speeding up GUI Testing by On-Device Test Generation
 + 2019
   + Humanoid: a deep learning-based approach to automated black-box Android app testing
