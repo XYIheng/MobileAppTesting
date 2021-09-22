@@ -14,9 +14,16 @@ Recent paper related to Android testing and Analysis
 
 [Test Event Reduction](#test-event-reduction)
 
-[Non-crash bug](#non-crash-bug)
+[Non-crash bug](#non-crashing-bug)
 
 ### ASE
+
+* 2021
+  * Characterizing and Detecting Configuration Compatibility Issues in Android Apps
+  * Finding the Missing Piece: Permission Specification Analysis for Android NDK
+  * Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps
+  * Deep GUI: Black-box GUI Input Generation with Deep Learning
+  * UI Test Migration Across Mobile Platforms
 
   + 2020
       + Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android
