@@ -164,6 +164,17 @@ Recent paper related to Android testing and Analysis
   * [Checking Conformance of Applications against GUI Policies](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_2.pdf)
   * [Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf)
   * [An Empirical Study of GUI Widget Detection for Industrial Mobile Games  ](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf) 
+* 2020
+	 * [All Your App Links Are Belong to Us: Understanding the Threats of Instant Apps Based Attacks](http://www4.comp.polyu.edu.hk/~csxluo/AppLink.pdf)
+	 * [Automated Construction of Energy Test Oracles for Android](https://reyhaneh.cs.illinois.edu/pdfs/2020_FSE_Automated.pdf)
+	 * [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://dl.acm.org/doi/pdf/10.1145/3368089.3409691)
+	 * [Static Asynchronous Component Misuse Detection for Android Applications](https://dl.acm.org/doi/pdf/10.1145/3368089.3409699)
+* 2019 
+	* [Preference-Wise Testing for Android Applications](https://dl.acm.org/doi/pdf/10.1145/3338906.3338980)
+	* [ServDroid: detecting service usage inefficiencies in Android applications](https://dl.acm.org/doi/pdf/10.1145/3338906.3338950)
+	* [Together strong: cooperative Android app analysis](https://dl.acm.org/doi/pdf/10.1145/3338906.3338915)
+	
+
 ### Reproduce Flaky
 * LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE '19)
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
