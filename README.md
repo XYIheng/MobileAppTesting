@@ -145,7 +145,6 @@ Recent paper related to Android testing and Analysis
   * Repairing crashes in Android apps
   * DetReduce: minimizing Android GUI test suites for regression testing
   
-    
 * 2017
   * Analysis and testing of notifications in Android wear applications
   * Adaptive unpacking of Android apps
@@ -156,6 +155,22 @@ Recent paper related to Android testing and Analysis
   * MobiPlay: a remote execution based record-and-replay tool for mobile applications
   * VDTest: an automated framework to support testing for virtual devices
   * PRADA: prioritizing android devices for apps by mining large-scale usage data
+
+### OOPSLA
+
+* 2021
+  * [Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs](https://tingsu.github.io/files/oopsla21-Genie.pdf)
+* 2020
+  * [A Large-Scale Longitudinal Study of Flaky Tests](https://www.jonbell.net/preprint/oopsla20flaky.pdf)
+  * [LiveDroid: Identifying and Preserving Mobile App State in Volatile Runtime Environments](https://manu.sridharan.net/files/OOPSLA20LiveDroid.pdf)
+* 2018
+  * [Robust Relational Layouts Synthesis from Examples for Android](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/319644/3/oopsla18main-p215-p.pdf)
+* 2016
+  * [Finding Resume and Restart Errors in Android Applications](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf)
+* 2015
+  * [Versatile Yet Lightweight Record-and-replay for Android](http://www.cs.ucr.edu/~neamtiu/pubs/oopsla15hu.pdf)
+  * [Interactively Verifying Absence of Explicit Information Flows in Android Apps](https://theory.stanford.edu/~aiken/publications/papers/oopsla2015b.pdf)
+  * [Scalable Race Detection for Android Applications](https://files.sri.inf.ethz.ch/website/papers/oopsla15-eventracer-android.pdf)
 
 ### ESEC/FSE
 
@@ -238,14 +253,23 @@ Recent paper related to Android testing and Analysis
 
 #### Find non-crashing bug
 
-* [Finding Resume and Restart Errors in Android Applications](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf) (OOPSLA '16)
-* [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
-* [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
-* [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
-* [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
+* [Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs](https://tingsu.github.io/files/oopsla21-Genie.pdf) (OOPSLA '21)
+
+* [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '21)
+* [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '20)
 * [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf) (ASE '20)
-* [A tale of two cities: how WebView induces bugs to Android applications](http://sccpu2.cse.ust.hk/andrewust/files/ASE18-wDroid.pdf) (ASE '18')
 * [Mimic: UI compatibility testing system for Android apps](https://nsr.cse.buffalo.edu/wp-content/uploads/2019/06/mimic-icse2019.pdf) (ICSE '19)
+* [A tale of two cities: how WebView induces bugs to Android applications](http://sccpu2.cse.ust.hk/andrewust/files/ASE18-wDroid.pdf) (ASE '18')
+* [Finding Resume and Restart Errors in Android Applications](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf) (OOPSLA '16)
+* [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '15)
+* [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '14)
+* 
+
+#### others related bug study
+
+* [Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward](https://arxiv.org/pdf/2106.13012.pdf)
+* [Actor Concurrency Bugs: A Comprehensive Study on Symptoms, Root Causes, API Usages, and Differences](https://mbagherz.bitbucket.io/lab-correct-software/papers/akka-actor-bugs.pdf) (OOPSLA '2020)
+* [A Large-Scale Longitudinal Study of Flaky Tests](https://www.jonbell.net/preprint/oopsla20flaky.pdf) (OOPSLA '2020)
 
 #### Human-provided oracles to find non-crashing bugs
 
