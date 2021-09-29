@@ -116,7 +116,7 @@ Recent paper related to Android testing and Analysis
   * [ Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines](https://xin-xia.github.io/publication/icse213.pdf)
   * [Layout and Image Recognition Driving Cross-Platform Automated Mobile Testing](https://arxiv.org/pdf/2008.05182.pdf)
   * [It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports](https://arxiv.org/pdf/2101.09194.pdf)
-* [Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding](https://arxiv.org/pdf/2102.09747.pdf)
+  * [Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding](https://arxiv.org/pdf/2102.09747.pdf)
   * [RAICC: Revealing Atypical Inter-Component Communication in Android Apps](https://arxiv.org/pdf/2012.09916.pdf)
   * [IMGDroid: Detecting Image Loading Defects in Android Applications](https://o2lab.github.io/p/imgdroid.pdf)
 
