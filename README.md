@@ -178,6 +178,11 @@ Recent paper related to Android testing and Analysis
 	* [Do Android Taint Analysis Tools Keep Their Promises?](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_2.pdf)
 	*  [FraudDroid: Automated Ad Fraud Detection for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_3.pdf)
 	* [Neural-Augmented Static Analysis of Android Communication](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_4.pdf)
+* 2017
+	* [µDroid: An Energy-Aware Mutation Testing Framework for Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_1.pdf)
+	* [PATDroid: permission-aware GUI testing of Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_2.pdf)
+	* [Enabling Mutation Testing for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_3.pdf)
+	* [Guided, Stochastic Model-Based GUI Testing of Android Apps](https://tingsu.github.io/files/fse17-stoat.pdf)
 	
 
 ### Reproduce Flaky
