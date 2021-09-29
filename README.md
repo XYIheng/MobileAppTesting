@@ -173,7 +173,11 @@ Recent paper related to Android testing and Analysis
 	* [Preference-Wise Testing for Android Applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_1.pdf)
 	* [ServDroid: detecting service usage inefficiencies in Android applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_2.pdf)
 	* [Together strong: cooperative Android app analysis](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_3.pdf)
-
+*  2018
+	* [AppFlow: Using Machine Learning to Synthesize Robust, Reusable UI Tests](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_1.pdf)
+	* [Do Android Taint Analysis Tools Keep Their Promises?](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_2.pdf)
+	*  [FraudDroid: Automated Ad Fraud Detection for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_3.pdf)
+	* [Neural-Augmented Static Analysis of Android Communication](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_4.pdf)
 	
 
 ### Reproduce Flaky
