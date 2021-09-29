@@ -29,7 +29,7 @@ Recent paper related to Android testing and Analysis
     + Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android
     + UI obfuscation and its effects on automated UI analysis for Android apps
     + Automated third-party library detection for Android applications: are we there yet?
-    + Owl eyes: spotting UI display issues via visual understanding
+    + [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf)
     + Test automation in Open-Source Android Apps: A Large-Scale Empirical Study
     + [ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android](http://seal.ics.uci.edu/publications/2020_ASE_ERCatcher.pdf)
     + Speeding up GUI Testing by On-Device Test Generation
@@ -54,7 +54,7 @@ Recent paper related to Android testing and Analysis
   + Efficiently manifesting asynchronous programming errors in Android apps
   + On adopting linters to deal with performance concerns in Android apps
   + Self-protection of Android systems from inter-component communication attacks
-  + A tale of two cities: how WebView induces bugs to Android applications
+  + [A tale of two cities: how WebView induces bugs to Android applications](http://sccpu2.cse.ust.hk/andrewust/files/ASE18-wDroid.pdf)
   + Characterizing and identifying misexposed activities in Android applications
   + Dual-force: understanding WebView malware via cross-language forced execution
 + 2017
@@ -127,14 +127,14 @@ Recent paper related to Android testing and Analysis
   * How Android developers handle evolution-induced API compatibility issues: a large-scale study
   * ComboDroid: generating high-quality test inputs for Android apps via use case combinations
   * RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications
-  * Time-travel testing of Android apps
+  * [Time-travel testing of Android apps](https://mboehme.github.io/paper/ICSE20.TTT.pdf)
   * An empirical assessment of security risks of global Android banking apps
   * Accessibility issues in Android apps: state of affairs, sentiments, and ways forward
   * Collaborative bug finding for Android apps
   
 * 2019
-  * IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps
-  * Mimic: UI compatibility testing system for Android apps
+  * [IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/iconintent-icse2019.pdf)
+  * [Mimic: UI compatibility testing system for Android apps](https://nsr.cse.buffalo.edu/wp-content/uploads/2019/06/mimic-icse2019.pdf)
   * Search-based energy testing of Android
   * Practical GUI testing of Android applications via model abstraction and refinement
   * Towards understanding and reasoning about Android interoperations
@@ -144,7 +144,8 @@ Recent paper related to Android testing and Analysis
   * Software protection on the go: a large-scale empirical study on mobile app obfuscation
   * Repairing crashes in Android apps
   * DetReduce: minimizing Android GUI test suites for regression testing
-  * Studying the dialogue between users and developers of free apps in the google play store
+  
+    
 * 2017
   * Analysis and testing of notifications in Android wear applications
   * Adaptive unpacking of Android apps
@@ -213,16 +214,27 @@ Recent paper related to Android testing and Analysis
 ### Non-crashing bug
 
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
-
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
-
 * [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
-
 * Is this the lifecycle we really want?: an automated black-box testing approach for Android activities  (INTUITESTBEDS 2018)
+* UI Test Migration Across Mobile Platforms （ASE '21)
+* [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf) (ASE '20)
+* Test migration between mobile apps with similar functionality (ASE '19)
+* Sketch-guided gui test generation for mobile applications (ASE '17)
+* EventFlowSlicer: a tool for generating realistic goal-driven GUI tests (ASE '17)
+* QADroid: regression event selection for Android applications (ISSTA '2019)
+* Monkey see, monkey do: effective generation of GUI tests with inferred macro events (ISSTA '2016)
 
-* 
+#### Find non-crashing bug
 
-
+* [Finding Resume and Restart Errors in Android Applications](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf) (OOPSLA '16)
+* [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
+* [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
+* [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
+* [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
+* [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf) (ASE '20)
+* [A tale of two cities: how WebView induces bugs to Android applications](http://sccpu2.cse.ust.hk/andrewust/files/ASE18-wDroid.pdf) (ASE '18')
+* [Mimic: UI compatibility testing system for Android apps](https://nsr.cse.buffalo.edu/wp-content/uploads/2019/06/mimic-icse2019.pdf) (ICSE '19)
 
 #### Human-provided oracles to find non-crashing bugs
 
