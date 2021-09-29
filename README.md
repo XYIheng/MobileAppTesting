@@ -116,9 +116,9 @@ Recent paper related to Android testing and Analysis
   * [ Don't Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines](https://xin-xia.github.io/publication/icse213.pdf)
   * [Layout and Image Recognition Driving Cross-Platform Automated Mobile Testing](https://arxiv.org/pdf/2008.05182.pdf)
   * [It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports](https://arxiv.org/pdf/2101.09194.pdf)
-
-  * [Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding](https://arxiv.org/pdf/2102.09747.pdf)
+* [Prioritize Crowdsourced Test Reports via Deep Screenshot Understanding](https://arxiv.org/pdf/2102.09747.pdf)
   * [RAICC: Revealing Atypical Inter-Component Communication in Android Apps](https://arxiv.org/pdf/2012.09916.pdf)
+  * [IMGDroid: Detecting Image Loading Defects in Android Applications](https://o2lab.github.io/p/imgdroid.pdf)
 
 * 2020
   * [LABLEDROID: Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning](https://arxiv.org/pdf/2003.00380.pdf)
@@ -263,7 +263,7 @@ Recent paper related to Android testing and Analysis
 * [Finding Resume and Restart Errors in Android Applications](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf) (OOPSLA '16)
 * [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '15)
 * [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '14)
-* 
+* [IMGDroid: Detecting Image Loading Defects in Android Applications](https://o2lab.github.io/p/imgdroid.pdf) (ICSE '21)
 
 #### others related bug study
 
