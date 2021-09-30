@@ -181,14 +181,24 @@ Recent paper related to Android testing and Analysis
   * [Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf)
   * [An Empirical Study of GUI Widget Detection for Industrial Mobile Games  ](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf) 
 * 2020
-	 * [All Your App Links Are Belong to Us: Understanding the Threats of Instant Apps Based Attacks](http://www4.comp.polyu.edu.hk/~csxluo/AppLink.pdf)
-	 * [Automated Construction of Energy Test Oracles for Android](https://reyhaneh.cs.illinois.edu/pdfs/2020_FSE_Automated.pdf)
-	 * [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://dl.acm.org/doi/pdf/10.1145/3368089.3409691)
-	 * [Static Asynchronous Component Misuse Detection for Android Applications](https://dl.acm.org/doi/pdf/10.1145/3368089.3409699)
+	 * [All Your App Links Are Belong to Us: Understanding the Threats of Instant Apps Based Attacks](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2020_1.pdf)
+	 * [Automated Construction of Energy Test Oracles for Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2020_2.pdf)
+	 * [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2020_3.pdf)
+	 * [Static Asynchronous Component Misuse Detection for Android Applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2020_4.pdf)
 * 2019 
-	* [Preference-Wise Testing for Android Applications](https://dl.acm.org/doi/pdf/10.1145/3338906.3338980)
-	* [ServDroid: detecting service usage inefficiencies in Android applications](https://dl.acm.org/doi/pdf/10.1145/3338906.3338950)
-	* [Together strong: cooperative Android app analysis](https://dl.acm.org/doi/pdf/10.1145/3338906.3338915)
+	* [Preference-Wise Testing for Android Applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_1.pdf)
+	* [ServDroid: detecting service usage inefficiencies in Android applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_2.pdf)
+	* [Together strong: cooperative Android app analysis](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_3.pdf)
+*  2018
+	* [AppFlow: Using Machine Learning to Synthesize Robust, Reusable UI Tests](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_1.pdf)
+	* [Do Android Taint Analysis Tools Keep Their Promises?](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_2.pdf)
+	*  [FraudDroid: Automated Ad Fraud Detection for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_3.pdf)
+	* [Neural-Augmented Static Analysis of Android Communication](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2018_4.pdf)
+* 2017
+	* [µDroid: An Energy-Aware Mutation Testing Framework for Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_1.pdf)
+	* [PATDroid: permission-aware GUI testing of Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_2.pdf)
+	* [Enabling Mutation Testing for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_3.pdf)
+	* [Guided, Stochastic Model-Based GUI Testing of Android Apps](https://tingsu.github.io/files/fse17-stoat.pdf)
 	
 
 ### Reproduce Flaky
