@@ -183,6 +183,12 @@ Recent paper related to Android testing and Analysis
 	* [PATDroid: permission-aware GUI testing of Android](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_2.pdf)
 	* [Enabling Mutation Testing for Android Apps](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_3.pdf)
 	* [Guided, Stochastic Model-Based GUI Testing of Android Apps](https://tingsu.github.io/files/fse17-stoat.pdf)
+* 2016
+	* [Understanding and detecting wake lock misuses for Android applications](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2016_1.pdf)
+	* [DiagDroid: Android performance diagnosis via anatomizing asynchronous executions](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2016_2.pdf)
+	* [Minimizing GUI event traces](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2016_3.pdf)
+	* [What would users change in my app? summarizing app reviews for recommending software changes](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2016_4.pdf)
+	
 	
 
 ### Reproduce Flaky
