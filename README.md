@@ -76,6 +76,12 @@ Recent paper related to Android testing and Analysis
 
 ### ISSTA
 
+* 2021
+  * [An Infrastructure Approach to Improving Effectiveness of Android UI Testing Tools](https://wenyu.io/pub/issta21-toller.pdf)
+  * [GUIDER: GUI Structure and Vision Co-Guided Test Script Repair for Android Apps](https://minxuepan.github.io/Pubs/guider.pdf)
+  * [Semantic Matching of GUI Events for Test Reuse: Are We There Yet?](https://valerio-terragni.github.io/assets/pdf/mariani-issta-2021.pdf)
+  * [Understanding and Finding System Setting-Related Defects in Android Apps](https://tingsu.github.io/files/issta21-Setdroid.pdf)
+
 * 2020
   * Data loss detector: automatically revealing data loss bugs in Android apps
   * Automated classification of actions in bug reports of mobile apps
