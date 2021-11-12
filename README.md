@@ -8,6 +8,8 @@ Recent paper related to Android testing and Analysis
 
 [ICSE](#icse)
 
+[OOPSLA](#oopsla)
+
 [ESEC/FSE](#esecfse)
 
 [Reproduce Flaky](#reproduce-flaky)
@@ -276,7 +278,6 @@ Recent paper related to Android testing and Analysis
 #### Find non-crashing bug
 
 * [Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs](https://tingsu.github.io/files/oopsla21-Genie.pdf) (OOPSLA '21)
-
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '21)
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '20)
 * [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf) (ASE '20)
@@ -286,6 +287,7 @@ Recent paper related to Android testing and Analysis
 * [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '15)
 * [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '14)
 * [IMGDroid: Detecting Image Loading Defects in Android Applications](https://o2lab.github.io/p/imgdroid.pdf) (ICSE '21)
+* [LiveDroid: Identifying and Preserving Mobile App State in Volatile Runtime Environments](https://manu.sridharan.net/files/OOPSLA20LiveDroid.pdf)
 
 #### others related bug study
 
