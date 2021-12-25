@@ -264,16 +264,28 @@ Recent paper related to Android testing and Analysis
 ### Non-crashing bug
 
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
+
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
+
 * [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
+
 * Is this the lifecycle we really want?: an automated black-box testing approach for Android activities  (INTUITESTBEDS 2018)
+
 * UI Test Migration Across Mobile Platforms （ASE '21)
+
 * [Owl eyes: spotting UI display issues via visual understanding](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf) (ASE '20)
+
 * Test migration between mobile apps with similar functionality (ASE '19)
+
 * Sketch-guided gui test generation for mobile applications (ASE '17)
+
 * EventFlowSlicer: a tool for generating realistic goal-driven GUI tests (ASE '17)
+
 * QADroid: regression event selection for Android applications (ISSTA '2019)
+
 * Monkey see, monkey do: effective generation of GUI tests with inferred macro events (ISSTA '2016)
+
+* An Empirical Study of i18n Collateral Changes and Bugs in GUIs of Android apps (ICSME 2020)
 
 #### Find non-crashing bug
 
