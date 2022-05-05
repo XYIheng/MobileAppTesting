@@ -152,7 +152,7 @@ Recent paper related to Android testing and Analysis
   * Software protection on the go: a large-scale empirical study on mobile app obfuscation
   * Repairing crashes in Android apps
   * DetReduce: minimizing Android GUI test suites for regression testing
-  
+  * [Augusto: exploiting popular functionalities for the generation of semantic GUI tests with Oracles](https://star.inf.usi.ch/media/papers/2018-icse-zuddas-augusto.pdf)
 * 2017
   * Analysis and testing of notifications in Android wear applications
   * Adaptive unpacking of Android apps
@@ -185,7 +185,7 @@ Recent paper related to Android testing and Analysis
 * 2021
 
   * [Benchmarking Automated GUI Testing for Android against Real-World Bugs](https://tingsu.github.io/files/fse21-themis.pdf)
-  * [Checking Conformance of Applications against GUI Policies](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_2.pdf)
+  * [Checking Conformance of Applications against GUI Policies](https://www.cs.utexas.edu/~isil/venus.pdf)
   * [Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf)
   * [An Empirical Study of GUI Widget Detection for Industrial Mobile Games  ](https://github.com/XYIheng/AndroidTesting/blob/main/paper/ESECFSE/2021_3.pdf) 
 * 2020
