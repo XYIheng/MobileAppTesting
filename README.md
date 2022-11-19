@@ -211,7 +211,15 @@ Recent paper related to Android testing and Analysis
   * [Scalable Race Detection for Android Applications](https://files.sri.inf.ethz.ch/website/papers/oopsla15-eventracer-android.pdf)
 
 ### ESEC/FSE
-
+* 2022
+  
+  * AccessiText: Automated Detection of Text Accessibility Issues in Android Apps
+  * Detecting Non-crashing Functional Bugs in Android Apps via Deep-State Differential Analysis
+  * Cross-Device Record and Replay for Android Apps
+  * Cross-Language Android Permission Specification
+  * Toward Interactive Bug Reporting for (Android App) End-Users
+  * Avgust: Automating Usage-Based Test Generation from Videos of App Executions
+  
 * 2021
 
   * [Benchmarking Automated GUI Testing for Android against Real-World Bugs](https://tingsu.github.io/files/fse21-themis.pdf)
