@@ -19,6 +19,14 @@ Recent paper related to Android testing and Analysis
 [Non-crash bug](#non-crashing-bug)
 
 ### ASE
+
+* 2022
+  * Accelerating OCR-Based Widget Localization for Test Automation of GUI Applications
+  * A Comprehensive Evaluation of Android ICC Resolution Techniques
+  * Automatically Detecting Visual Bugs in HTML5 <canvas> Games
+  * Groundhog: An Automated Accessibility Crawler for Mobile Apps
+  * The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps
+  * VITAS : Guided Model-based VUI Testing of VPA Apps
  
 * 2021
   * Characterizing and Detecting Configuration Compatibility Issues in Android Apps
