@@ -77,6 +77,14 @@ Recent paper related to Android testing and Analysis
   + Relda2: an effective static analysis tool for resource leak detection in Android apps.
 
 ### ISSTA
+* 2023
+  * An Empirical Study of Functional Bugs in Android Apps [[pdf]](https://tingsu.github.io/files/ISSTA23-functional-bugs.pdf), [[repo]](https://github.com/Android-Functional-bugs-study/home)
+  * Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning [[pdf]](https://dennielzhang.github.io/files/issta2023-preprint.pdf), [[website]](https://sites.google.com/usc.edu/reprobot/home), [[tool]](https://github.com/USC-SQL/ReproBot-Artifact)
+  * ConfFix: Repairing Configuration Compatibility Issues in Android Apps [[pdf]](https://chixu.netlify.app/files/ConfFix_huang.pdf), [[repo]](https://github.com/rudmannn/ConfFix)
+  * DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps [[artifact]](https://doi.org/10.5281/zenodo.7907006)
+  * Guided Retraining to Enhance the Detection of Difficult Android Malware
+  * Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation
+  * ωTest: WebView-Oriented Testing for Android Applications [[pdf]](https://arxiv.org/abs/2306.03845), [[repo]](https://richardhooooo.github.io/wTest/)
 * 2022
   * PermDroid: automatically testing permission-related behaviour of Android applications.
   * Detecting and fixing data loss issues in Android apps
