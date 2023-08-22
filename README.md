@@ -139,6 +139,21 @@ Recent paper related to Android testing and Analysis
   * Systematic execution of android test suites in adverse conditions
 
 ### ICSE
+* 2023
+  * COLUMBUS: Android App Testing Through Systematic Callback Exploration [[pdf]](https://dipanjan.in/papers/cbdroid-icse-2023.pdf)
+  * Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis [[pdf]](https://sen-chen.github.io/img_cs/pdf/icse2023-psdroid.pdf)
+  * PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps 
+  * AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces [[pdf]](https://arxiv.org/pdf/2303.06782.pdf)
+  * BADGE: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing [[pdf]](https://wenyu.io/pub/icse23-badge.pdf)
+  * Context-aware Bug Reproduction for Mobile Apps 
+  * Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps
+  * Detecting Dialog-Related Keyboard Navigation Failures in Web Applications
+  * Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization
+  * Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference [[pdf]](https://arxiv.org/pdf/2212.05203.pdf)
+  * Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network
+  * Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing [[pdf]](https://arxiv.org/pdf/2212.04732.pdf)
+  * Read It, Don't Watch It: Captioning Bug Recordings Automatically [[pdf]](https://arxiv.org/pdf/2302.00886.pdf)
+
 * 2022
   * APER: Evolution-Aware Runtime Permission Misuse Detection for Android Apps. 
   * Demystifying Android Non-SDK APls: Measurement and Understanding
