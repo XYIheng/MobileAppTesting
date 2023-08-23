@@ -19,7 +19,12 @@ Recent paper related to Android testing and Analysis
 [Non-crash bug](#non-crashing-bug)
 
 ### ASE
-
+* 2023
+  * Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding
+  * ReuNify: A Step Towards Whole Program Analysis for React Native Android App
+  * Scene-Driven Exploration and GUI Modeling for Android Apps
+  * Vision-based Widget Mapping for Test Migration across Mobile Platforms: Are We There Yet?
+  * Automated Fixing of Web UI Tests via Iterative Element Matching [[pdf]](https://gaoxiang9430.github.io/papers/ASE23_UITESTFIX.pdf)
 * 2022
   * Accelerating OCR-Based Widget Localization for Test Automation of GUI Applications
   * A Comprehensive Evaluation of Android ICC Resolution Techniques
