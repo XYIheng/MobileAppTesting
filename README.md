@@ -247,6 +247,12 @@ Recent paper related to Android testing and Analysis
   * [Scalable Race Detection for Android Applications](https://files.sri.inf.ethz.ch/website/papers/oopsla15-eventracer-android.pdf)
 
 ### ESEC/FSE
+* 2023
+  * Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android
+  * Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps
+  * Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps
+  * ViaLin: Path-Aware Dynamic Taint Analysis for Android
+
 * 2022
   
   * AccessiText: Automated Detection of Text Accessibility Issues in Android Apps
