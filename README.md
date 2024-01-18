@@ -25,6 +25,21 @@ Please check the web [AndroidTesting](https://xyiheng.github.io/AndroidTesting/)
 
 ## All papers
 
+### 2024
+* ICSE
+  * Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning
+  * Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models
+  * Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps
+  * Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications
+  * Learning-based Widget Matching for Migrating GUI Test Cases
+  * Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
+  * On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization
+  * Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms
+  * Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports
+  * Automatically Detecting Reflow Accessibility Issues in Responsive Web Pages
+  * CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace
+  * MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs
+
 ### 2023
 * ASE
   * Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding
