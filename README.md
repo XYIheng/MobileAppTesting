@@ -40,6 +40,10 @@ Please check the web [AndroidTesting](https://xyiheng.github.io/AndroidTesting/)
   * CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace
   * MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs
 
+* FSE
+  * Mobile Bug Report Reproduction via Global Search on the App UI Model
+  * Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications
+  * Investigating Documented Privacy Changes in Android OS
 ### 2023
 * ASE
   * Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding
