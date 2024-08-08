@@ -394,7 +394,13 @@ Please check the web [AndroidTesting](https://xyiheng.github.io/AndroidTesting/)
 * An Empirical Study of i18n Collateral Changes and Bugs in GUIs of Android apps (ICSME 2020)
 
 #### Find non-crashing bug
+* Automating GUI-based Test Oracles for Mobile Apps (MSR'24)
 
+* [A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps](https://arxiv.org/pdf/2407.19053)
+* [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://arxiv.org/pdf/2407.09018)
+* [Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model](https://arxiv.org/pdf/2407.03037)
+* Finding Deep-Hidden Bugs in Android Apps via Functional Semantics Guided Exploration (TASE'24)
+* Extraction and empirical evaluation of GUI-level invariants as GUI Oracles in mobile app testing (IST'24)
 * [Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs](https://tingsu.github.io/files/oopsla21-Genie.pdf) (OOPSLA '21)
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '21)
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '20)
