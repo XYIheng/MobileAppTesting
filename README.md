@@ -44,6 +44,14 @@ Please check the web [AndroidTesting](https://xyiheng.github.io/AndroidTesting/)
   * Mobile Bug Report Reproduction via Global Search on the App UI Model
   * Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications
   * Investigating Documented Privacy Changes in Android OS
+  * Guardian: A Runtime Framework for LLM-based UI Exploration
+ 
+* ISSTA
+  * Call Graph Soundness in Android Static Analysis
+  * Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps
+  * NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps
+  * Synthesis-based Enhancement for GUI Test Case Migration
+  * Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions
 ### 2023
 * ASE
   * Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding
