@@ -3,7 +3,7 @@
 Recent paper related to Android app testing and Analysis.
 Feel free to add new papers by pull request.
 
-Please check the web [AndroidTesting](https://xyiheng.github.io/MobileAppTesting/).
+Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesting/).
 
 ## Contents
 
