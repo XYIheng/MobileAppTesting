@@ -17,11 +17,11 @@ Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesti
 [2016](#2016)
 
 
-[Reproduce Flaky](#reproduce-flaky)
+[Reproduce Flaky Tests](#reproduce-flaky)
 
-[Test Event Reduction](#test-event-reduction)
+[GUI Test Reduction](#test-event-reduction)
 
-[Non-crash bug](#non-crashing-bug)
+[Non-crashing Functional bug](#non-crashing-bug)
 
 ## All papers
 
@@ -341,7 +341,7 @@ Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesti
 
 
 
-### Reproduce Flaky
+### Reproduce Flaky Tests
 
 * LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform (ASE '19)
 * SARA: Self-Replay Augmented Record and Replay for Android in Industrial Cases (ISSTA '19)
@@ -373,7 +373,7 @@ Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesti
 * [iFixFlakies: A framework for automatically fixing order-dependent flaky tests](https://par.nsf.gov/servlets/purl/10111143) (ESEC/FSE'2019)
 * [An Empirical Study of Flaky Tests in Android Apps](https://people.cs.vt.edu/nm8247/publications/empirical-study-flaky-pdf.pdf) (ICSME'2018)
 
-### Test Event Reduction
+### GUI Test Reduction
 
 * [Efficient testing of GUI applications by event sequence reduction](https://www.researchgate.net/publication/343619960_Efficient_testing_of_GUI_applications_by_event_sequence_reduction)(Science of Computer Programming '2021)
 * [Understanding Ineffective Events and Reducing Test Sequences for Android Applications](https://www.researchgate.net/profile/Jiwei-Yan/publication/337643189_Understanding_Ineffective_Events_and_Reducing_Test_Sequences_for_Android_Applications/links/5e4e240c92851c7f7f48befb/Understanding-Ineffective-Events-and-Reducing-Test-Sequences-for-Android-Applications.pdf) (TASE '2019)
@@ -386,7 +386,7 @@ Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesti
 * [Minimizing GUI event traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf)  (FSE '2016)
 * [On the use of delta debugging to reduce recordings and facilitate debugging of web applications](https://dl.acm.org/doi/abs/10.1145/2786805.2786846) (ESEC/FSE '2015)
 
-### Non-crashing bug
+### Non-crashing Functional Bugs
 
 * [Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps](https://oliviero.gitlab.io/pub/RiganelliISSTA2020.pdf) (ISSTA '2020)
 * [Understanding and finding system setting-related defects in Android apps](https://tingsu.github.io/files/issta21-Setdroid.pdf) (ISSTA '2021)
@@ -401,7 +401,7 @@ Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesti
 * Monkey see, monkey do: effective generation of GUI tests with inferred macro events (ISSTA '2016)
 * An Empirical Study of i18n Collateral Changes and Bugs in GUIs of Android apps (ICSME 2020)
 
-#### Find non-crashing bug
+#### Find non-crashing functional bugs
 * Automating GUI-based Test Oracles for Mobile Apps (MSR'24)
 
 * [A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps](https://arxiv.org/pdf/2407.19053)
