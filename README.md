@@ -1,9 +1,9 @@
 # Mobile App Analysis and Testing
 
-Recent papers related to Mobile app analysis and testing.
-Feel free to add new papers by pull requests.
+Recent papers related to mobile app analysis and testing.
+Feel free to make contribution to this repository (e.g., adding new papers) by creating pull requests.
 
-Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesting/).
+You can also view the papers via this web page [MobileAppTesting](https://xyiheng.github.io/MobileAppTesting/).
 
 ## Contents
 
