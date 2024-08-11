@@ -1,7 +1,7 @@
-# Android Testing and Analysis
+# Mobile App Analysis and Testing
 
-Recent paper related to Android app testing and Analysis.
-Feel free to add new papers by pull request.
+Recent paper related to Mobile app analysis and testing.
+Feel free to add new papers by pull requests.
 
 Please check the web [MobileAppTesting](https://xyiheng.github.io/MobileAppTesting/).
 
