@@ -17,11 +17,11 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 [2016](#2016)
 
 
-[Reproduce Flaky Tests](#reproduce-flaky)
+[Reproduce Flaky Tests](#reproduce-flaky-tests)
 
-[GUI Test Reduction](#test-event-reduction)
+[GUI Test Reduction](#gui-test-reduction)
 
-[Non-crashing Functional bug](#non-crashing-bug)
+[Non-crashing Functional bugs](#non-crashing-functional-bugs)
 
 ## All papers
 
