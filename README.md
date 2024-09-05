@@ -7,6 +7,7 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ## Contents
 
+[2024](#2024)
 [2023](#2023)
 [2022](#2022)
 [2021](#2021)
@@ -26,6 +27,10 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ## All papers
 
 ### 2024
+
+* ASE
+  * Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics
+
 * ICSE
   * Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning
   * Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models
