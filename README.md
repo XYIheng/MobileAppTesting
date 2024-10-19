@@ -29,6 +29,7 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ### 2024
 
 * ASE
+  * General and Practical Property-based Testing for Android Apps  [[pdf]](https://xyiheng.github.io//files/Property_Based_Testing_for_Android_Apps.pdf), [[repo]](https://github.com/ecnusse/Kea)  
   * Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics
 
 * ICSE
