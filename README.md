@@ -31,6 +31,12 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 * ASE
   * General and Practical Property-based Testing for Android Apps  [[pdf]](https://xyiheng.github.io//files/Property_Based_Testing_for_Android_Apps.pdf), [[repo]](https://github.com/ecnusse/Kea)  
   * Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics
+  * A Longitudinal Analysis Of Replicas in the Wild Wild Android
+  * DroidCoder: Enhanced Android Code Completion with Context-Enriched Retrieval-Augmented Generation
+  * Giving without Notifying: Assessing Compliance of Data Transmission in Android Apps
+  * How Does Code Optimization Impact Third-party Library Detection for Android Applications?
+  * MaskDroid: Robust Android Malware Detection with Masked Graph Representations
+  * Beyond Manual Modeling: Automating GUI Model Generation Using Design Documents
 
 * ICSE
   * Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning
