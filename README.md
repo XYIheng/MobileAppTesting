@@ -26,6 +26,21 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ## All papers
 
+### 2025
+
+* ICSE
+  * Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps
+  * EP-Detector: Automatic Detection of Error-prone Operation Anomalies in Android Applications
+  * Mobile Application Coverage: The 30% Curse and Ways Forward
+  * Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps
+  * The Design Smells Breaking the Boundary between Android Variants and AOSP
+  * TacDroid: Detection of Illicit Apps through Hybrid Analysis of UI-based Transition Graphs
+  * PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps
+  * SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation
+  * Automated Generation of Accessibility Test Reports from Recorded User Transcripts
+  * Does GenAI Make Usability Testing Obsolete?
+
+  
 ### 2024
 
 * ASE
