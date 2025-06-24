@@ -39,6 +39,13 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation
   * Automated Generation of Accessibility Test Reports from Recorded User Transcripts
   * Does GenAI Make Usability Testing Obsolete?
+ 
+* FSE
+  * A Mixed-Methods Study of Model-Based GUI Testing in Real-World Industrial Settings
+  * LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance
+  * Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation
+  * Automated Recognition of Buggy Behaviors from Mobile Bug Reports
+  * Enhancing Web Accessibility: Automated Detection of Issues with Generative AI
 
   
 ### 2024
