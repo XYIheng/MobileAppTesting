@@ -47,6 +47,14 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * Automated Recognition of Buggy Behaviors from Mobile Bug Reports
   * Enhancing Web Accessibility: Automated Detection of Issues with Generative AI
 
+* ISSTA
+  * GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs
+  * Intention-based GUI Test Migration for Mobile Apps using Large Language Models
+  * MLLM-Based UI2Code Automation Guided by UI Layout Information
+  * Automated Test Transfer Across Android Apps Using Large Language Models
+  * Walls Have Ears: Demystifying Notification Listener Usage in Android Apps
+  * Are Autonomous Web Agents good testers?
+  * 	Uncovering API-Scope Misalignment in the App-in-App Ecosystem
   
 ### 2024
 
