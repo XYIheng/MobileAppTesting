@@ -54,7 +54,7 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * Automated Test Transfer Across Android Apps Using Large Language Models
   * Walls Have Ears: Demystifying Notification Listener Usage in Android Apps
   * Are Autonomous Web Agents good testers?
-  * 	Uncovering API-Scope Misalignment in the App-in-App Ecosystem
+  * Uncovering API-Scope Misalignment in the App-in-App Ecosystem
   
 ### 2024
 
