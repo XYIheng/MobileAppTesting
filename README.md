@@ -27,7 +27,14 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ## All papers
 
 ### 2025
-
+* ASE
+  * Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory
+  * Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems
+  * Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps
+  * NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps
+  * Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing
+  * Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination  
+    
 * ICSE
   * Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps
   * EP-Detector: Automatic Detection of Error-prone Operation Anomalies in Android Applications
