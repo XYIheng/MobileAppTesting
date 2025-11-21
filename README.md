@@ -33,7 +33,11 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps
   * NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps
   * Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing
-  * Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination  
+  * Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination
+  * Characterizing and Repairing Color-Related Accessibility Issues in Android Apps
+  * AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps
+  * Automated Detection of Web Application Navigation Barriers for Screen Reader Users
+  * GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications
     
 * ICSE
   * Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps
