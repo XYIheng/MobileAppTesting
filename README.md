@@ -30,99 +30,99 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ### 2026
 * ICSE
-  * Practitioner Views on Mobile App Accessibility: Practices and Challenges
-  * SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments
-  * Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning
-  * Towards Global Matches for Third-Party Library Detection in Android
-  * Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models
-  * Understanding DevOps Security of Google Workspace Apps
+  * [Practitioner Views on Mobile App Accessibility: Practices and Challenges](https://arxiv.org/pdf/2601.14131)
+  * [SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments](https://arxiv.org/abs/2603.10268)
+  * [Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning](https://conf.researchr.org/details/icse-2026/icse-2026-research-track)
+  * [Towards Global Matches for Third-Party Library Detection in Android](https://cs.tulane.edu/~jming/publication/libscope-icse26/)
+  * [Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)
+  * [Understanding DevOps Security of Google Workspace Apps](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
 
 ### 2025
 * ASE
-  * Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory
-  * Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems
-  * Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps
-  * NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps
-  * Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing
-  * Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination
-  * Characterizing and Repairing Color-Related Accessibility Issues in Android Apps
-  * AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps
-  * Automated Detection of Web Application Navigation Barriers for Screen Reader Users
-  * GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications
+  * [Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory](https://ieeexplore.ieee.org/document/11334687/)
+  * [Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems](https://arxiv.org/pdf/2510.24141)
+  * [Generating Failure-Based Oracles to Support Testing of Reported Bugs in Android Apps](https://ieeexplore.ieee.org/document/11334637/)
+  * [NATE: A Network-Aware Testing Enhancer for Network-Related Fault Detection in Android Apps](https://ieeexplore.ieee.org/document/11334452/)
+  * [Profile Coverage: Using Android Compilation Profiles to Evaluate Dynamic Testing](https://themoep.at/research/2025-profile-coverage.pdf)
+  * [Terminator: enabling efficient fuzzing of closed-source GUI programs by automatic coverage-guided termination](https://ieeexplore.ieee.org/document/11334615/)
+  * [Characterizing and Repairing Color-Related Accessibility Issues in Android Apps](https://ieeexplore.ieee.org/document/11334532/)
+  * [AppBDS: LLM-Powered Description Synthesis for Sensitive Behaviors in Mobile Apps](https://ieeexplore.ieee.org/document/11334675/)
+  * [Automated Detection of Web Application Navigation Barriers for Screen Reader Users](https://seal.ics.uci.edu/publications/2025_ASE.pdf)
+  * [GUIFuzz++: Unleashing Grey-box Fuzzing on Desktop Graphical User Interfacing Applications](https://futures.cs.utah.edu/papers/25ASE.pdf)
     
 * ICSE
-  * Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps
-  * EP-Detector: Automatic Detection of Error-prone Operation Anomalies in Android Applications
-  * Mobile Application Coverage: The 30% Curse and Ways Forward
-  * Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps
-  * The Design Smells Breaking the Boundary between Android Variants and AOSP
-  * TacDroid: Detection of Illicit Apps through Hybrid Analysis of UI-based Transition Graphs
-  * PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps
-  * SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation
-  * Automated Generation of Accessibility Test Reports from Recorded User Transcripts
-  * Does GenAI Make Usability Testing Obsolete?
+  * [Automated Accessibility Analysis of Dynamic Content Changes on Mobile Apps](https://seal.ics.uci.edu/publications/2025_ICSE_timestump.pdf)
+  * [EP-Detector: Automatic Detection of Error-prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/document/11029849/)
+  * [Mobile Application Coverage: The 30% Curse and Ways Forward](https://people.ece.ubc.ca/mjulia/publications/Mobile_Application_Coverage_ICSE2025.pdf)
+  * [Scenario-Driven and Context-Aware Automated Accessibility Testing for Android Apps](https://sen-chen.github.io/pdf/C53-ICSE2025-Scenario-Driven%20and%20Context-Aware%20Automated%20Accessibility%20Testing%20for%20Android%20Apps.pdf)
+  * [The Design Smells Breaking the Boundary between Android Variants and AOSP](https://ieeexplore.ieee.org/document/11029784/)
+  * [TacDroid: Detection of Illicit Apps through Hybrid Analysis of UI-based Transition Graphs](https://dl.acm.org/doi/pdf/10.1109/ICSE55347.2025.00111)
+  * [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](https://cs.nju.edu.cn/yueli/papers/icse2025-pacdroid.pdf)
+  * [SeeAction: Towards Reverse Engineering How-What-Where of HCI Actions from Screencasts for UI Automation](https://arxiv.org/abs/2503.12873)
+  * [Automated Generation of Accessibility Test Reports from Recorded User Transcripts](https://seal.ics.uci.edu/publications/2025_ICSE_reca11.pdf)
+  * [Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634)
  
 * FSE
-  * A Mixed-Methods Study of Model-Based GUI Testing in Real-World Industrial Settings
-  * LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance
-  * Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation
-  * Automated Recognition of Buggy Behaviors from Mobile Bug Reports
-  * Enhancing Web Accessibility: Automated Detection of Issues with Generative AI
+  * [A Mixed-Methods Study of Model-Based GUI Testing in Real-World Industrial Settings](https://dl.acm.org/doi/10.1145/3715789)
+  * [LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance](https://dl.acm.org/doi/10.1145/3715763)
+  * [Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation](https://dl.acm.org/doi/10.1145/3715755)
+  * [Automated Recognition of Buggy Behaviors from Mobile Bug Reports](https://dl.acm.org/doi/10.1145/3729370)
+  * [Enhancing Web Accessibility: Automated Detection of Issues with Generative AI](https://seal.ics.uci.edu/publications/2025_FSE_GenA11y.pdf)
 
 * ISSTA
-  * GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs
-  * Intention-based GUI Test Migration for Mobile Apps using Large Language Models
-  * MLLM-Based UI2Code Automation Guided by UI Layout Information
-  * Automated Test Transfer Across Android Apps Using Large Language Models
-  * Walls Have Ears: Demystifying Notification Listener Usage in Android Apps
-  * Are Autonomous Web Agents good testers?
-  * Uncovering API-Scope Misalignment in the App-in-App Ecosystem
+  * [GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs](http://linyun.info/publications/issta25.pdf)
+  * [Intention-based GUI Test Migration for Mobile Apps using Large Language Models](https://seg.nju.edu.cn/uploadPublication/copyright/1251771328477.pdf)
+  * [MLLM-Based UI2Code Automation Guided by UI Layout Information](https://arxiv.org/abs/2506.10376)
+  * [Automated Test Transfer Across Android Apps Using Large Language Models](https://arxiv.org/abs/2411.17933)
+  * [Walls Have Ears: Demystifying Notification Listener Usage in Android Apps](https://dl.acm.org/doi/10.1145/3728898)
+  * [Are Autonomous Web Agents good testers?](https://arxiv.org/abs/2504.01495)
+  * [Uncovering API-Scope Misalignment in the App-in-App Ecosystem](https://dl.acm.org/doi/10.1145/3728962)
   
 ### 2024
 
 * ASE
   * General and Practical Property-based Testing for Android Apps  [[pdf]](https://xyiheng.github.io//files/Property_Based_Testing_for_Android_Apps.pdf), [[repo]](https://github.com/ecnusse/Kea)  
-  * Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics
-  * A Longitudinal Analysis Of Replicas in the Wild Wild Android
-  * DroidCoder: Enhanced Android Code Completion with Context-Enriched Retrieval-Augmented Generation
-  * Giving without Notifying: Assessing Compliance of Data Transmission in Android Apps
-  * How Does Code Optimization Impact Third-party Library Detection for Android Applications?
-  * MaskDroid: Robust Android Malware Detection with Masked Graph Representations
-  * Beyond Manual Modeling: Automating GUI Model Generation Using Design Documents
+  * [Navigating Mobile Testing Evaluation: A Comprehensive Statistical Analysis of Android GUI Testing Metrics](https://seg.nju.edu.cn/uploadPublication/copyright/125-618098776.pdf)
+  * [A Longitudinal Analysis Of Replicas in the Wild Wild Android](https://uwspace.uwaterloo.ca/bitstreams/9e780c3b-4dea-476e-bb42-cc8c362bbe3a/download)
+  * [DroidCoder: Enhanced Android Code Completion with Context-Enriched Retrieval-Augmented Generation](https://seg.nju.edu.cn/uploadPublication/copyright/1251651308145.pdf)
+  * [Giving without Notifying: Assessing Compliance of Data Transmission in Android Apps](https://dl.acm.org/doi/10.1145/3691620.3695528)
+  * [How Does Code Optimization Impact Third-party Library Detection for Android Applications?](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)
+  * [MaskDroid: Robust Android Malware Detection with Masked Graph Representations](https://arxiv.org/pdf/2409.19594)
+  * [Beyond Manual Modeling: Automating GUI Model Generation Using Design Documents](https://seg.nju.edu.cn/uploadPublication/copyright/1251402120536.pdf)
 
 * ICSE
-  * Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning
-  * Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models
-  * Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps
-  * Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications
-  * Learning-based Widget Matching for Migrating GUI Test Cases
-  * Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions
-  * On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization
-  * Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms
-  * Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports
-  * Automatically Detecting Reflow Accessibility Issues in Responsive Web Pages
-  * CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace
-  * MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs
+  * [Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3597503.3623344)
+  * [Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models](https://arxiv.org/abs/2306.01987)
+  * [Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps](https://bruceqczhao.github.io/assets/icse24/ICSE24a.pdf)
+  * [Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications](https://dl.acm.org/doi/10.1145/3597503.3639108)
+  * [Learning-based Widget Matching for Migrating GUI Test Cases](https://yakzhang.github.io/2024-icse-temdroid.pdf)
+  * [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://arxiv.org/abs/2310.15780)
+  * [On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization](https://arxiv.org/abs/2310.08083)
+  * [Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms](https://arxiv.org/abs/2312.10655)
+  * [Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports](https://arxiv.org/abs/2407.08610)
+  * [Automatically Detecting Reflow Accessibility Issues in Responsive Web Pages](https://dl.acm.org/doi/10.1145/3597503.3639229)
+  * [CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace](https://arxiv.org/abs/2310.07128)
+  * [MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs](https://arxiv.org/abs/2403.13690)
 
 * FSE
-  * Mobile Bug Report Reproduction via Global Search on the App UI Model
-  * Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications
-  * Investigating Documented Privacy Changes in Android OS
+  * [Mobile Bug Report Reproduction via Global Search on the App UI Model](https://par.nsf.gov/servlets/purl/10544604)
+  * [Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications](https://dl.acm.org/doi/10.1145/3643730)
+  * [Investigating Documented Privacy Changes in Android OS](https://dl.acm.org/doi/10.1145/3660826)
  
 * ISSTA
-  * Guardian: A Runtime Framework for LLM-based UI Exploration
-  * Call Graph Soundness in Android Static Analysis
-  * Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps
-  * NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps
-  * Synthesis-based Enhancement for GUI Test Case Migration
-  * Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions
+  * [Guardian: A Runtime Framework for LLM-based UI Exploration](https://dezhi-ran.com/publication/issta24-guardian/issta24-guardian.pdf)
+  * [Call Graph Soundness in Android Static Analysis](https://homes.cs.washington.edu/~rjust/publ/call_graph_soundness_issta_2024.pdf)
+  * [Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps](https://zhaoxu-zhang.github.io/files/issta2024.pdf)
+  * [NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps](https://dl.acm.org/doi/10.1145/3650212.3680335)
+  * [Synthesis-based Enhancement for GUI Test Case Migration](https://yakzhang.github.io/2024-issta-migratepro.pdf)
+  * [Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions](https://arxiv.org/pdf/2408.04075)
     
 ### 2023
 * ASE
-  * Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding
-  * ReuNify: A Step Towards Whole Program Analysis for React Native Android App
-  * Scene-Driven Exploration and GUI Modeling for Android Apps
-  * Vision-based Widget Mapping for Test Migration across Mobile Platforms: Are We There Yet?
+  * [Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding](https://dl.acm.org/doi/10.1109/ASE56229.2023.00056)
+  * [ReuNify: A Step Towards Whole Program Analysis for React Native Android App](https://arxiv.org/abs/2309.03524)
+  * [Scene-Driven Exploration and GUI Modeling for Android Apps](https://sen-chen.github.io/img_cs/pdf/ase2023-scenedroid.pdf)
+  * [Vision-based Widget Mapping for Test Migration across Mobile Platforms: Are We There Yet?](https://ieeexplore.ieee.org/document/10298559/)
   * Automated Fixing of Web UI Tests via Iterative Element Matching [[pdf]](https://gaoxiang9430.github.io/papers/ASE23_UITESTFIX.pdf)
 
 * ISSTA  
@@ -130,81 +130,81 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning [[pdf]](https://dennielzhang.github.io/files/issta2023-preprint.pdf), [[website]](https://sites.google.com/usc.edu/reprobot/home), [[tool]](https://github.com/USC-SQL/ReproBot-Artifact)
   * ConfFix: Repairing Configuration Compatibility Issues in Android Apps [[pdf]](https://chixu.netlify.app/files/ConfFix_huang.pdf), [[repo]](https://github.com/rudmannn/ConfFix)
   * DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps [[artifact]](https://doi.org/10.5281/zenodo.7907006)
-  * Guided Retraining to Enhance the Detection of Difficult Android Malware
-  * Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation
+  * [Guided Retraining to Enhance the Detection of Difficult Android Malware](https://jacquesklein2302.github.io/papers/2023-issta23main-Nadia-GuidedRetraining.pdf)
+  * [Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation](https://xzf1234.github.io/pdfs/ISSTA23-PHunter.pdf)
   * ωTest: WebView-Oriented Testing for Android Applications [[pdf]](https://arxiv.org/abs/2306.03845), [[repo]](https://richardhooooo.github.io/wTest/)
 
 * ICSE
   * COLUMBUS: Android App Testing Through Systematic Callback Exploration [[pdf]](https://dipanjan.in/papers/cbdroid-icse-2023.pdf)
   * Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis [[pdf]](https://sen-chen.github.io/img_cs/pdf/icse2023-psdroid.pdf)
-  * PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps 
+  * [PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00050)
   * AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces [[pdf]](https://arxiv.org/pdf/2303.06782.pdf)
   * BADGE: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing [[pdf]](https://wenyu.io/pub/icse23-badge.pdf)
-  * Context-aware Bug Reproduction for Mobile Apps 
-  * Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps
-  * Detecting Dialog-Related Keyboard Navigation Failures in Web Applications
-  * Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization
+  * [Context-aware Bug Reproduction for Mobile Apps](https://ieeexplore.ieee.org/document/10172656/)
+  * [Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps](https://arxiv.org/abs/2301.12348)
+  * [Detecting Dialog-Related Keyboard Navigation Failures in Web Applications](https://dl.acm.org/doi/abs/10.1109/ICSE48619.2023.00120)
+  * [Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00144)
   * Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference [[pdf]](https://arxiv.org/pdf/2212.05203.pdf)
-  * Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network
+  * [Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00168)
   * Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing [[pdf]](https://arxiv.org/pdf/2212.04732.pdf)
   * Read It, Don't Watch It: Captioning Bug Recordings Automatically [[pdf]](https://arxiv.org/pdf/2302.00886.pdf)
 
 * FSE
-  * Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android
-  * Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps
-  * Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps
-  * ViaLin: Path-Aware Dynamic Taint Analysis for Android
+  * [Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android](https://tingsu.github.io/files/fse23-DDroid.pdf)
+  * [Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps](https://sen-chen.github.io/img_cs/pdf/fse2023-iris.pdf)
+  * [Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps](https://tingsu.github.io/files/fse23-PBFDroid.pdf)
+  * [ViaLin: Path-Aware Dynamic Taint Analysis for Android](https://people.ece.ubc.ca/~mjulia/publications/ViaLin_FSE2023.pdf)
 
 ### 2022
 
 * ASE
-  * Accelerating OCR-Based Widget Localization for Test Automation of GUI Applications
-  * A Comprehensive Evaluation of Android ICC Resolution Techniques  
-  * Automatically Detecting Visual Bugs in HTML5 Games
-  * Groundhog: An Automated Accessibility Crawler for Mobile Apps
-  * The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps
-  * VITAS : Guided Model-based VUI Testing of VPA Apps
+  * [Accelerating OCR-Based Widget Localization for Test Automation of GUI Applications](https://dl.acm.org/doi/10.1145/3551349.3556966)
+  * [A Comprehensive Evaluation of Android ICC Resolution Techniques](https://arxiv.org/pdf/2111.05649)
+  * [Automatically Detecting Visual Bugs in HTML5 Games](https://arxiv.org/abs/2208.02335)
+  * [Groundhog: An Automated Accessibility Crawler for Mobile Apps](https://seal.ics.uci.edu/publications/2022_ASE_Groundhog.pdf)
+  * [The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps](https://arxiv.org/abs/2212.04388)
+  * [VITAS : Guided Model-based VUI Testing of VPA Apps](https://seg.nju.edu.cn/uploadPublication/copyright/123-128607585.pdf)
 
 * ISSTA
-  * PermDroid: automatically testing permission-related behaviour of Android applications.
-  * Detecting and fixing data loss issues in Android apps
-  * Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study)
-  * NCScope: hardware-assisted analyzer for native code in Android apps
-  * Detecting resource utilization bugs induced by variant lifecycles in Android 
+  * [PermDroid: automatically testing permission-related behaviour of Android applications](https://dl.acm.org/doi/10.1145/3533767.3534221)
+  * [Detecting and fixing data loss issues in Android apps](https://tingsu.github.io/files/issta22-data-loss.pdf)
+  * [Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study)](https://arxiv.org/pdf/2205.15561)
+  * [NCScope: hardware-assisted analyzer for native code in Android apps](https://chapering.github.io/pubs/issta22hao.pdf)
+  * [Detecting resource utilization bugs induced by variant lifecycles in Android](https://dl.acm.org/doi/10.1145/3533767.3534413)
 
 * ICSE
-  * APER: Evolution-Aware Runtime Permission Misuse Detection for Android Apps. 
-  * Demystifying Android Non-SDK APls: Measurement and Understanding
-  * Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps
+  * [APER: Evolution-Aware Runtime Permission Misuse Detection for Android Apps](https://arxiv.org/abs/2201.12542)
+  * [Demystifying Android Non-SDK APls: Measurement and Understanding](https://diaowenrui.github.io/paper/icse22-yang.pdf)
+  * [Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps](https://arxiv.org/pdf/2112.10470)
 
-  * GIFdroid: Automated Replay of Visual Bug Reports for Android Apps
-  * JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis
-  * Large-scale Security Measurements on the Android Firmware Ecosystem
-  * PROMAL: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning
-  * Towards Automatically Repairing Compatibility Issues in Published Android Apps
-  * Use of Test Doubles in Android Testing: An In-Depth Investigation
-  * Analyzing User Perspectives on Mobile App Privacy at Scale
-  * DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile
-  * Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models
-  * Fast and Precise Application Code Analysis using a Partial Library
-  * Where is Your App Frustrating Users
+  * [GIFdroid: Automated Replay of Visual Bug Reports for Android Apps](https://arxiv.org/pdf/2112.04128)
+  * [JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis](https://arxiv.org/pdf/2112.10469)
+  * [Large-scale Security Measurements on the Android Firmware Ecosystem](https://dl.acm.org/doi/10.1145/3510003.3510072)
+  * [PROMAL: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning](https://xusheng-xiao.github.io/papers/promal_icse_cr.pdf)
+  * [Towards Automatically Repairing Compatibility Issues in Published Android Apps](https://dl.acm.org/doi/10.1145/3510003.3510118)
+  * [Use of Test Doubles in Android Testing: An In-Depth Investigation](https://dl.acm.org/doi/10.1145/3510003.3510175)
+  * [Analyzing User Perspectives on Mobile App Privacy at Scale](https://dl.acm.org/doi/10.1145/3510003.3510079)
+  * [DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile](https://dl.acm.org/doi/10.1145/3510003.3510058)
+  * [Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models](https://dl.acm.org/doi/10.1145/3510003.3510187)
+  * [Fast and Precise Application Code Analysis using a Partial Library](https://dl.acm.org/doi/10.1145/3510003.3510046)
+  * [Where is Your App Frustrating Users](https://dl.acm.org/doi/10.1145/3510003.3510189)
 
 * FSE
-  * AccessiText: Automated Detection of Text Accessibility Issues in Android Apps
-  * Detecting Non-crashing Functional Bugs in Android Apps via Deep-State Differential Analysis
-  * Cross-Device Record and Replay for Android Apps
-  * Cross-Language Android Permission Specification
-  * Toward Interactive Bug Reporting for (Android App) End-Users
-  * Avgust: Automating Usage-Based Test Generation from Videos of App Executions
+  * [AccessiText: Automated Detection of Text Accessibility Issues in Android Apps](https://seal.ics.uci.edu/publications/2022_FSE_AccessiText.pdf)
+  * [Detecting Non-crashing Functional Bugs in Android Apps via Deep-State Differential Analysis](https://tingsu.github.io/files/fse22-odin.pdf)
+  * [Cross-Device Record and Replay for Android Apps](https://dl.acm.org/doi/10.1145/3540250.3549117)
+  * [Cross-Language Android Permission Specification](https://dl.acm.org/doi/10.1145/3540250.3549139)
+  * [Toward Interactive Bug Reporting for (Android App) End-Users](https://ojcchar.github.io/files/21-fse22-burt.pdf)
+  * [Avgust: Automating Usage-Based Test Generation from Videos of App Executions](https://dl.acm.org/doi/10.1145/3540250.3549134)
 
 ### 2021
 
 * ASE
-  * Characterizing and Detecting Configuration Compatibility Issues in Android Apps
-  * Finding the Missing Piece: Permission Specification Analysis for Android NDK
-  * Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps
-  * Deep GUI: Black-box GUI Input Generation with Deep Learning
-  * UI Test Migration Across Mobile Platforms
+  * [Characterizing and Detecting Configuration Compatibility Issues in Android Apps](https://arxiv.org/abs/2109.00300)
+  * [Finding the Missing Piece: Permission Specification Analysis for Android NDK](https://www4.comp.polyu.edu.hk/~csxluo/PSGen.pdf)
+  * [Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps](https://ieeexplore.ieee.org/document/9678625/)
+  * [Deep GUI: Black-box GUI Input Generation with Deep Learning](https://seal.ics.uci.edu/publications/2021_ase_deep_gui.pdf)
+  * [UI Test Migration Across Mobile Platforms](https://ieeexplore.ieee.org/document/9678643)
 
 * ISSTA
   * An Infrastructure Approach to Improving Effectiveness of Android UI Testing Tools [[pdf]](https://wenyu.io/pub/issta21-toller.pdf)
@@ -238,29 +238,29 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ### 2020
 
 * ASE
-  + Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android
-  + UI obfuscation and its effects on automated UI analysis for Android apps
-  + Automated third-party library detection for Android applications: are we there yet?
+  + [Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android](https://ieeexplore.ieee.org/document/9286135)
+  + [UI obfuscation and its effects on automated UI analysis for Android apps](https://www4.comp.polyu.edu.hk/~csxluo/UIObfucation.pdf)
+  + [Automated third-party library detection for Android applications: are we there yet?](https://dl.acm.org/doi/10.1145/3324884.3416582)
   + Owl eyes: spotting UI display issues via visual understanding [[pdf]](https://arxiv.org/ftp/arxiv/papers/2009/2009.01417.pdf)
-  + Test automation in Open-Source Android Apps: A Large-Scale Empirical Study
+  + [Test automation in Open-Source Android Apps: A Large-Scale Empirical Study](https://dl.acm.org/doi/10.1145/3324884.3416579)
   + ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android [[pdf]](http://seal.ics.uci.edu/publications/2020_ASE_ERCatcher.pdf)
-  + Speeding up GUI Testing by On-Device Test Generation
+  + [Speeding up GUI Testing by On-Device Test Generation](https://ieeexplore.ieee.org/document/9285989)
 
 * ISSTA
-  * Data loss detector: automatically revealing data loss bugs in Android apps
-  * Automated classification of actions in bug reports of mobile apps
+  * [Data loss detector: automatically revealing data loss bugs in Android apps](https://arxiv.org/abs/2010.05584)
+  * [Automated classification of actions in bug reports of mobile apps](https://dl.acm.org/doi/10.1145/3395363.3397353)
 
 * ICSE
   * LABLEDROID: Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning [[pdf]](https://arxiv.org/pdf/2003.00380.pdf)
-  * Translating video recordings of mobile app usages into replayable scenarios
-  * Multiple-entry testing of Android applications by constructing activity launching contexts
-  * How Android developers handle evolution-induced API compatibility issues: a large-scale study
-  * ComboDroid: generating high-quality test inputs for Android apps via use case combinations
-  * RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications
+  * [Translating video recordings of mobile app usages into replayable scenarios](https://dl.acm.org/doi/10.1145/3377811.3380328)
+  * [Multiple-entry testing of Android applications by constructing activity launching contexts](https://dl.acm.org/doi/10.1145/3377811.3380363)
+  * [How Android developers handle evolution-induced API compatibility issues: a large-scale study](https://dl.acm.org/doi/10.1145/3377811.3380357)
+  * [ComboDroid: generating high-quality test inputs for Android apps via use case combinations](https://cv.juewang.info/publication/combodroid/ComboDroid.pdf)
+  * [RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications](https://dl.acm.org/doi/10.1145/3377811.3380394)
   * Time-travel testing of Android apps [[pdf]](https://mboehme.github.io/paper/ICSE20.TTT.pdf)
-  * An empirical assessment of security risks of global Android banking apps
-  * Accessibility issues in Android apps: state of affairs, sentiments, and ways forward
-  * Collaborative bug finding for Android apps
+  * [An empirical assessment of security risks of global Android banking apps](https://dl.acm.org/doi/10.1145/3377811.3380235)
+  * [Accessibility issues in Android apps: state of affairs, sentiments, and ways forward](https://dl.acm.org/doi/10.1145/3377811.3380392)
+  * [Collaborative bug finding for Android apps](https://dl.acm.org/doi/10.1145/3377811.3380348)
 
 * FSE
   * All Your App Links Are Belong to Us: Understanding the Threats of Instant Apps Based Attacks [[pdf]](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2020_1.pdf)
@@ -274,35 +274,35 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ### 2019
 * ASE
-  + Humanoid: a deep learning-based approach to automated black-box Android app testing
-  + Test transfer across mobile apps through semantic mapping
-  + Goal-driven exploration for Android applications
-  + Randr: Record and replay for android applications via targeted runtime instrumentation
-  + LIRAT: layout and image recognition driving automated mobile testing of cross-platform
-  + DaPanda: detecting aggressive push notifications in Android apps
-  + Test migration between mobile apps with similar functionality
-  + MutAPK: source-codeless mutant generation for Android apps
-  + Automating app review response generation
-  + A qualitative analysis of Android taint-analysis results
-  + OAuthLint: an empirical study on OAuth bugs in Android applications
-  + Demystifying application performance management libraries for Android
-  + Characterizing Android app signing issues
+  + [Humanoid: a deep learning-based approach to automated black-box Android app testing](https://dl.acm.org/doi/10.1109/ASE.2019.00092)
+  + [Test transfer across mobile apps through semantic mapping](https://dl.acm.org/doi/10.1109/ASE.2019.00048)
+  + [Goal-driven exploration for Android applications](https://dl.acm.org/doi/10.1109/ASE.2019.00050)
+  + [Randr: Record and replay for android applications via targeted runtime instrumentation](https://dl.acm.org/doi/10.1109/ASE.2019.00049)
+  + [LIRAT: layout and image recognition driving automated mobile testing of cross-platform](https://dl.acm.org/doi/10.1109/ASE.2019.00047)
+  + [DaPanda: detecting aggressive push notifications in Android apps](https://dl.acm.org/doi/10.1109/ASE.2019.00093)
+  + [Test migration between mobile apps with similar functionality](https://dl.acm.org/doi/10.1109/ASE.2019.00046)
+  + [MutAPK: source-codeless mutant generation for Android apps](https://dl.acm.org/doi/10.1109/ASE.2019.00094)
+  + [Automating app review response generation](https://dl.acm.org/doi/10.1109/ASE.2019.00087)
+  + [A qualitative analysis of Android taint-analysis results](https://dl.acm.org/doi/10.1109/ASE.2019.00096)
+  + [OAuthLint: an empirical study on OAuth bugs in Android applications](https://dl.acm.org/doi/10.1109/ASE.2019.00095)
+  + [Demystifying application performance management libraries for Android](https://dl.acm.org/doi/10.1109/ASE.2019.00091)
+  + [Characterizing Android app signing issues](https://dl.acm.org/doi/10.1109/ASE.2019.00090)
 
 * ISSTA
-  * SARA: self-replay augmented record and replay for Android in industrial cases
-  * Improving random GUI testing with image-based widget detection
-  * TestMig: migrating GUI test cases from iOS to Android
-  * Mining Android crash fixes in the absence of issue- and change-tracking systems
-  * LibID: reliable identification of obfuscated third-party Android libraries
-  * QADroid: regression event selection for Android applications
-  * Learning user interface element interactions
+  * [SARA: self-replay augmented record and replay for Android in industrial cases](https://dl.acm.org/doi/10.1145/3293882.3330559)
+  * [Improving random GUI testing with image-based widget detection](https://dl.acm.org/doi/10.1145/3293882.3330551)
+  * [TestMig: migrating GUI test cases from iOS to Android](https://dl.acm.org/doi/10.1145/3293882.3330575)
+  * [Mining Android crash fixes in the absence of issue- and change-tracking systems](https://dl.acm.org/doi/10.1145/3293882.3330572)
+  * [LibID: reliable identification of obfuscated third-party Android libraries](https://dl.acm.org/doi/10.1145/3293882.3330563)
+  * [QADroid: regression event selection for Android applications](https://dl.acm.org/doi/10.1145/3293882.3330554)
+  * [Learning user interface element interactions](https://dl.acm.org/doi/10.1145/3293882.3330569)
 
 * ICSE
   * IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps [[pdf]](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/iconintent-icse2019.pdf)
   * Mimic: UI compatibility testing system for Android apps [[pdf]](https://nsr.cse.buffalo.edu/wp-content/uploads/2019/06/mimic-icse2019.pdf)
-  * Search-based energy testing of Android
-  * Practical GUI testing of Android applications via model abstraction and refinement
-  * Towards understanding and reasoning about Android interoperations
+  * [Search-based energy testing of Android](https://dl.acm.org/doi/10.1109/ICSE.2019.00115)
+  * [Practical GUI testing of Android applications via model abstraction and refinement](https://dl.acm.org/doi/10.1109/ICSE.2019.00042)
+  * [Towards understanding and reasoning about Android interoperations](https://dl.acm.org/doi/10.1109/ICSE.2019.00028)
 
 * FSE
   * Preference-Wise Testing for Android Applications [[pdf]](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2019_1.pdf)
@@ -312,28 +312,28 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ### 2018
 
 * ASE
-  + An empirical study of android test generation tools in industrial cases
-  + Understanding and detecting evolution-induced compatibility issues in Android apps
-  + Understanding and detecting callback compatibility issues for Android applications
-  + Efficiently manifesting asynchronous programming errors in Android apps
-  + On adopting linters to deal with performance concerns in Android apps
-  + Self-protection of Android systems from inter-component communication attacks
+  + [An empirical study of android test generation tools in industrial cases](https://dl.acm.org/doi/10.1145/3238147.3238175)
+  + [Understanding and detecting evolution-induced compatibility issues in Android apps](https://dl.acm.org/doi/10.1145/3238147.3238185)
+  + [Understanding and detecting callback compatibility issues for Android applications](https://dl.acm.org/doi/10.1145/3238147.3238181)
+  + [Efficiently manifesting asynchronous programming errors in Android apps](https://dl.acm.org/doi/10.1145/3238147.3238174)
+  + [On adopting linters to deal with performance concerns in Android apps](https://dl.acm.org/doi/10.1145/3238147.3238196)
+  + [Self-protection of Android systems from inter-component communication attacks](https://dl.acm.org/doi/10.1145/3238147.3238190)
   + A tale of two cities: how WebView induces bugs to Android applications [[pdf]](http://sccpu2.cse.ust.hk/andrewust/files/ASE18-wDroid.pdf)
-  + Characterizing and identifying misexposed activities in Android applications
-  + Dual-force: understanding WebView malware via cross-language forced execution
+  + [Characterizing and identifying misexposed activities in Android applications](https://dl.acm.org/doi/10.1145/3238147.3238183)
+  + [Dual-force: understanding WebView malware via cross-language forced execution](https://dl.acm.org/doi/10.1145/3238147.3238221)
 
 * ISSTA
-  * Automatically translating bug reports into test cases for mobile apps
-  * LAND: a user-friendly and customizable test generation tool for Android apps
-  * CiD: automating the detection of API-related compatibility issues in Android apps
-  * Test migration for efficient large-scale assessment of mobile app coding assignments
+  * [Automatically translating bug reports into test cases for mobile apps](https://dl.acm.org/doi/10.1145/3213846.3213857)
+  * [LAND: a user-friendly and customizable test generation tool for Android apps](https://dl.acm.org/doi/10.1145/3213846.3213858)
+  * [CiD: automating the detection of API-related compatibility issues in Android apps](https://dl.acm.org/doi/10.1145/3213846.3213857)
+  * [Test migration for efficient large-scale assessment of mobile app coding assignments](https://dl.acm.org/doi/10.1145/3213846.3213854)
 
 * ICSE
-  * Automated reporting of GUI design violations for mobile apps
-  * Leveraging program analysis to reduce user-perceived latency in mobile applications
-  * Software protection on the go: a large-scale empirical study on mobile app obfuscation
-  * Repairing crashes in Android apps
-  * DetReduce: minimizing Android GUI test suites for regression testing
+  * [Automated reporting of GUI design violations for mobile apps](https://dl.acm.org/doi/10.1145/3180155.3180164)
+  * [Leveraging program analysis to reduce user-perceived latency in mobile applications](https://dl.acm.org/doi/10.1145/3180155.3180249)
+  * [Software protection on the go: a large-scale empirical study on mobile app obfuscation](https://dl.acm.org/doi/10.1145/3180155.3180169)
+  * [Repairing crashes in Android apps](https://dl.acm.org/doi/10.1145/3180155.3180243)
+  * [DetReduce: minimizing Android GUI test suites for regression testing](https://dl.acm.org/doi/10.1145/3180155.3180173)
   * Augusto: exploiting popular functionalities for the generation of semantic GUI tests with Oracles [[pdf]](https://star.inf.usi.ch/media/papers/2018-icse-zuddas-augusto.pdf)
 
 * FSE 
@@ -348,26 +348,26 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ### 2017
 
 * ASE
-  + SimplyDroid: efficient event sequence simplification for Android application
-  + EHBDroid: beyond GUI testing for Android applications
-  + Sketch-guided gui test generation for mobile applications
-  + Systematically testing background services of mobile apps
-  + UI driven Android application reduction
-  + ANDROFLEET: testing WiFi peer-to-peer mobile apps in the large
-  + Automated cross-platform inconsistency detection for mobile apps
-  + Systematic reduction of GUI test sequences
-  + EventFlowSlicer: a tool for generating realistic goal-driven GUI tests
-  + Crowd intelligence enhances automated mobile testing
+  + [SimplyDroid: efficient event sequence simplification for Android application](https://dl.acm.org/doi/10.1109/ASE.2017.8115671)
+  + [EHBDroid: beyond GUI testing for Android applications](https://dl.acm.org/doi/10.1109/ASE.2017.8115680)
+  + [Sketch-guided gui test generation for mobile applications](https://dl.acm.org/doi/10.1109/ASE.2017.8115622)
+  + [Systematically testing background services of mobile apps](https://dl.acm.org/doi/10.1109/ASE.2017.8115623)
+  + [UI driven Android application reduction](https://dl.acm.org/doi/10.1109/ASE.2017.8115674)
+  + [ANDROFLEET: testing WiFi peer-to-peer mobile apps in the large](https://dl.acm.org/doi/10.1109/ASE.2017.8115624)
+  + [Automated cross-platform inconsistency detection for mobile apps](https://dl.acm.org/doi/10.1109/ASE.2017.8115656)
+  + [Systematic reduction of GUI test sequences](https://dl.acm.org/doi/10.1109/ASE.2017.8115672)
+  + [EventFlowSlicer: a tool for generating realistic goal-driven GUI tests](https://dl.acm.org/doi/10.1109/ASE.2017.8115688)
+  + [Crowd intelligence enhances automated mobile testing](https://dl.acm.org/doi/10.1109/ASE.2017.8115621)
 
 * ISSTA
-  * Data flow oriented UI testing: exploiting data flows and UI elements to test Android applications
-  * Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications
+  * [Data flow oriented UI testing: exploiting data flows and UI elements to test Android applications](https://dl.acm.org/doi/10.1145/3092703.3092734)
+  * [Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications](https://dl.acm.org/doi/10.1145/3092703.3092724)
 
 * ICSE
-  * Analysis and testing of notifications in Android wear applications
-  * Adaptive unpacking of Android apps
-  * Automatic text input generation for mobile testing
-  * LibD: scalable and precise third-party library detection in android markets
+  * [Analysis and testing of notifications in Android wear applications](https://dl.acm.org/doi/10.1109/ICSE.2017.11)
+  * [Adaptive unpacking of Android apps](https://dl.acm.org/doi/10.1109/ICSE.2017.36)
+  * [Automatic text input generation for mobile testing](https://dl.acm.org/doi/10.1109/ICSE.2017.65)
+  * [LibD: scalable and precise third-party library detection in android markets](https://dl.acm.org/doi/10.1109/ICSE.2017.38)
 
 * FSE
   * µDroid: An Energy-Aware Mutation Testing Framework for Android [[pdf]](https://github.com/mohui1999/AndroidTesting/blob/main/paper/ESECFSE/2017_1.pdf)
@@ -378,28 +378,28 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 ### 2016
 
 * ASE
-  + Automated model-based Android GUI testing using multi-level GUI comparison criteria
-  + Reflection-aware static analysis of Android apps
-  + Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps
-  + Relda2: an effective static analysis tool for resource leak detection in Android apps.
+  + [Automated model-based Android GUI testing using multi-level GUI comparison criteria](https://dl.acm.org/doi/10.1145/2970276.2970313)
+  + [Reflection-aware static analysis of Android apps](https://dl.acm.org/doi/10.1145/2970276.2970309)
+  + [Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps](https://dl.acm.org/doi/10.1145/2970276.2970312)
+  + [Relda2: an effective static analysis tool for resource leak detection in Android apps](https://dl.acm.org/doi/10.1145/2970276.2970311)
 
 * ISSTA
-  * Monkey see, monkey do: effective generation of GUI tests with inferred macro events
-  * Sapienz: multi-objective automated testing for Android applications
-  * DroidRA: taming reflection to support whole-program analysis of Android apps
-  * Energy-aware test-suite minimization for android apps
+  * [Monkey see, monkey do: effective generation of GUI tests with inferred macro events](https://dl.acm.org/doi/10.1145/2931037.2931063)
+  * [Sapienz: multi-objective automated testing for Android applications](http://www0.cs.ucl.ac.uk/staff/k.mao/archive/p_issta16_sapienz.pdf)
+  * [DroidRA: taming reflection to support whole-program analysis of Android apps](https://dl.acm.org/doi/10.1145/2931037.2931044)
+  * [Energy-aware test-suite minimization for android apps](https://dl.acm.org/doi/10.1145/2931037.2931067)
 
 * ICSE
-  * Reducing combinatorics in GUI testing of android applications
-  * MobiPlay: a remote execution based record-and-replay tool for mobile applications
-  * VDTest: an automated framework to support testing for virtual devices
-  * PRADA: prioritizing android devices for apps by mining large-scale usage data
+  * [Reducing combinatorics in GUI testing of android applications](https://dl.acm.org/doi/10.1145/2884781.2884853)
+  * [MobiPlay: a remote execution based record-and-replay tool for mobile applications](https://dl.acm.org/doi/10.1145/2884781.2884854)
+  * [VDTest: an automated framework to support testing for virtual devices](https://dl.acm.org/doi/10.1145/2884781.2884855)
+  * [PRADA: prioritizing android devices for apps by mining large-scale usage data](https://dl.acm.org/doi/10.1145/2884781.2884828)
 
 * FSE
-  * Understanding and detecting wake lock misuses for Android applications
-  * DiagDroid: Android performance diagnosis via anatomizing asynchronous executions
-  * Minimizing GUI event traces
-  * What would users change in my app? summarizing app reviews for recommending software changes
+  * [Understanding and detecting wake lock misuses for Android applications](https://dl.acm.org/doi/10.1145/2950290.2950297)
+  * [DiagDroid: Android performance diagnosis via anatomizing asynchronous executions](https://dl.acm.org/doi/10.1145/2950290.2950316)
+  * [Minimizing GUI event traces](https://theory.stanford.edu/~aiken/publications/papers/fse16.pdf)
+  * [What would users change in my app? summarizing app reviews for recommending software changes](https://dl.acm.org/doi/10.1145/2950290.2950299)
 
 * OOPSLA
   * Finding Resume and Restart Errors in Android Applications [[pdf]](https://web.njit.edu/~ineamtiu/pubs/oopsla16shan.pdf)
