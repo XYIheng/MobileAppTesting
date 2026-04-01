@@ -7,6 +7,7 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ## Contents
 
+[2025](#2025)
 [2024](#2024)
 [2023](#2023)
 [2022](#2022)
@@ -25,6 +26,16 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 [Non-crashing Functional bugs](#non-crashing-functional-bugs)
 
 ## All papers
+
+
+### 2026
+* ICSE
+  * Practitioner Views on Mobile App Accessibility: Practices and Challenges
+  * SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments
+  * Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning
+  * Towards Global Matches for Third-Party Library Detection in Android
+  * Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models
+  * Understanding DevOps Security of Google Workspace Apps
 
 ### 2025
 * ASE
