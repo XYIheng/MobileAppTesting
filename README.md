@@ -1,6 +1,6 @@
-# Mobile App Analysis and Testing
+# Mobile App Analysis, Testing, and Security
 
-Recent papers related to mobile app analysis and testing.
+Recent papers related to mobile app analysis, testing, and security, collected from top software engineering conferences (ICSE, FSE, ASE, ISSTA) and top security conferences (IEEE S&P, CCS, USENIX Security, NDSS).
 Feel free to make contribution to this repository (e.g., adding new papers) by creating pull requests.
 
 You can also view the papers via this web page [MobileAppTesting](https://xyiheng.github.io/MobileAppTesting/).
@@ -36,6 +36,12 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [Towards Global Matches for Third-Party Library Detection in Android](https://cs.tulane.edu/~jming/publication/libscope-icse26/)
   * [Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)
   * [Understanding DevOps Security of Google Workspace Apps](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
+
+* NDSS
+  * [Beyond Conventional Triggers: Auto-Contextualized Covert Triggers for Android Logic Bombs](https://www.ndss-symposium.org/ndss-paper/beyond-conventional-triggers-auto-contextualized-covert-triggers-for-android-logic-bombs/)
+  * [CHAMELEOSCAN: Demystifying and Detecting iOS Chameleon Apps via LLM-Powered UI Exploration](https://www.ndss-symposium.org/ndss-paper/chameleoscan-demystifying-and-detecting-ios-chameleon-apps-via-llm-powered-ui-exploration/)
+  * [Cross-Boundary Mobile Tracking: Exploring Java-to-JavaScript Information Diffusion in WebViews](https://www.ndss-symposium.org/ndss-paper/cross-boundary-mobile-tracking-exploring-java-to-javascript-information-diffusion-in-webviews/)
+  * [Connecting the Dots: An Investigative Study on Linking Private User Data Across Messaging Apps](https://www.ndss-symposium.org/ndss-paper/connecting-the-dots-an-investigative-study-on-linking-private-user-data-across-messaging-apps/)
 
 ### 2025
 * ASE
@@ -77,7 +83,39 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [Walls Have Ears: Demystifying Notification Listener Usage in Android Apps](https://dl.acm.org/doi/10.1145/3728898)
   * [Are Autonomous Web Agents good testers?](https://arxiv.org/abs/2504.01495)
   * [Uncovering API-Scope Misalignment in the App-in-App Ecosystem](https://dl.acm.org/doi/10.1145/3728962)
-  
+
+* IEEE S&P
+  * [Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs](https://ieeexplore.ieee.org/document/11023417/)
+  * [WireWatch: Measuring the security of proprietary network encryption in the global Android ecosystem](https://sp2025.ieee-security.org/accepted-papers.html)
+  * [Code Speaks Louder: Exploring Security and Privacy Relevant Regional Variations in Mobile Applications](https://sp2025.ieee-security.org/accepted-papers.html)
+  * [Analyzing the iOS Local Network Permission from a Technical and User Perspective](https://sp2025.ieee-security.org/accepted-papers.html)
+  * [A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements](https://sp2025.ieee-security.org/accepted-papers.html)
+  * ["You Have to Ignore the Dangers": User Perceptions of the Security and Privacy Benefits of WhatsApp Mods](https://sp2025.ieee-security.org/accepted-papers.html)
+
+* CCS
+  * [Leaky Apps: Large-scale Analysis of Secrets Distributed in Android and iOS Apps](https://dl.acm.org/doi/10.1145/3719027.3765033)
+  * [Pixnapping: Bringing Pixel Stealing out of the Stone Age](https://dl.acm.org/doi/10.1145/3719027.3765093)
+
+* USENIX Security
+  * [TapTrap: Animation-Driven Tapjacking on Android](https://www.usenix.org/conference/usenixsecurity25/presentation/beer)
+  * [Easy As Child's Play: An Empirical Study on Age Verification of Adult-Oriented Android Apps](https://www.usenix.org/conference/usenixsecurity25/presentation/yao-yifan)
+  * [Fighting Fire with Fire: Continuous Attack for Adversarial Android Malware Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-yinyuan)
+  * [Compromising Mobile Devices through Malicious Chargers](https://www.usenix.org/system/files/usenixsecurity25-draschbacher.pdf)
+  * [Abusability of Automation Apps in Intimate Partner Violence](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-shirley)
+
+* NDSS
+  * [An Empirical Study on Fingerprint API Misuse with Lifecycle Analysis in Real-world Android Apps](https://www.ndss-symposium.org/ndss-paper/an-empirical-study-on-fingerprint-api-misuse-with-lifecycle-analysis-in-real-world-android-apps/)
+  * [Automated Mass Malware Factory: The Convergence of Piggybacking and Adversarial Example in Android Malicious Software Generation](https://www.ndss-symposium.org/ndss-paper/automated-mass-malware-factory-the-convergence-of-piggybacking-and-adversarial-example-in-android-malicious-software-generation/)
+  * [MALintent: Coverage Guided Intent Fuzzing Framework for Android](https://www.ndss-symposium.org/ndss-paper/malintent-coverage-guided-intent-fuzzing-framework-for-android/)
+  * [Power-Related Side-Channel Attacks using the Android Sensor Framework](https://www.ndss-symposium.org/ndss-paper/power-related-side-channel-attacks-using-the-android-sensor-framework/)
+  * [ScopeVerif: Analyzing the Security of Android's Scoped Storage via Differential Analysis](https://www.ndss-symposium.org/ndss-paper/scopeverif-analyzing-the-security-of-androids-scoped-storage-via-differential-analysis/)
+  * [What's Done Is Not What's Claimed: Detecting and Interpreting Inconsistencies in App Behaviors](https://www.ndss-symposium.org/ndss-paper/whats-done-is-not-whats-claimed-detecting-and-interpreting-inconsistencies-in-app-behaviors/)
+  * [Understanding Miniapp Malware: Identification, Dissection, and Characterization](https://www.ndss-symposium.org/ndss-paper/understanding-miniapp-malware-identification-dissection-and-characterization/)
+  * [The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps](https://www.ndss-symposium.org/ndss-paper/the-skeleton-keys-a-large-scale-analysis-of-credential-leakage-in-mini-apps/)
+  * [Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph](https://www.ndss-symposium.org/ndss-paper/careful-about-what-app-promotion-ads-recommend-detecting-and-explaining-malware-promotion-via-app-promotion-graph/)
+  * [Transparency or Information Overload? Evaluating Users' Comprehension and Perceptions of the iOS App Privacy Report](https://www.ndss-symposium.org/ndss-paper/transparency-or-information-overload-evaluating-users-comprehension-and-perceptions-of-the-ios-app-privacy-report/)
+  * [Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets](https://www.ndss-symposium.org/ndss-paper/vulnerability-where-art-thou-an-investigation-of-vulnerability-management-in-android-smartphone-chipsets/)
+
 ### 2024
 
 * ASE
@@ -116,7 +154,35 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [NativeSummary: Summarizing Native Binary Code for Inter-language Static Analysis of Android Apps](https://dl.acm.org/doi/10.1145/3650212.3680335)
   * [Synthesis-based Enhancement for GUI Test Case Migration](https://yakzhang.github.io/2024-issta-migratepro.pdf)
   * [Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions](https://arxiv.org/pdf/2408.04075)
-    
+
+* IEEE S&P
+  * [Tabbed Out: Subverting the Android Custom Tab Security Model](https://sp2024.ieee-security.org/accepted-papers.html)
+  * [Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables](https://sp2024.ieee-security.org/accepted-papers.html)
+  * [Withdrawing is believing? Detecting Inconsistencies Between Withdrawal Choices and Third-party Data Collections in Mobile Apps](https://sp2024.ieee-security.org/accepted-papers.html)
+
+* CCS
+  * [MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs](https://dl.acm.org/doi/10.1145/3658644.3670294)
+  * [Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps](https://dl.acm.org/doi/10.1145/3691620.3695528)
+  * [VPVet: Vetting Privacy Policies of Virtual Reality Apps](https://dl.acm.org/doi/10.1145/3658644.3690321)
+  * [Measuring Compliance Implications of Third-party Libraries' Privacy Label Disclosure Guidelines](https://dl.acm.org/doi/10.1145/3658644.3670371)
+
+* USENIX Security
+  * [DVa: Extracting Victims and Abuse Vectors from Android Accessibility Malware](https://www.usenix.org/conference/usenixsecurity24/presentation/xu-haichuan)
+  * [UIHash: Detecting Similar Android UIs through Grid-Based Visual Appearance Representation](https://www.usenix.org/conference/usenixsecurity24/presentation/li-jiawei)
+  * [Peep With A Mirror: Breaking The Integrity of Android App Sandboxing via Unprivileged Cache Side Channel](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)
+  * [DARKFLEECE: Probing the Dark Side of Android Subscription Apps](https://www.usenix.org/conference/usenixsecurity24/presentation/yue)
+  * [Abandon All Hope Ye Who Enter Here: A Dynamic, Longitudinal Investigation of Android's Data Safety Section](https://www.usenix.org/conference/usenixsecurity24/presentation/arkalakis)
+  * [Towards Privacy-Preserving Social-Media SDKs on Android](https://www.usenix.org/conference/usenixsecurity24/presentation/lu-haoran)
+  * [Exploring Covert Third-party Identifiers through External Storage in the Android New Era](https://www.usenix.org/conference/usenixsecurity24/presentation/dong-zikan)
+  * [Understanding Risks with Privacy-Configurable Mobile SDKs](https://www.usenix.org/system/files/usenixsecurity24-zhang-yifan.pdf)
+  * [Racing for TLS Certificate Validation: A Hijacker's Guide to the Android TLS Galaxy](https://www.usenix.org/conference/usenixsecurity24/presentation/pourali)
+
+* NDSS
+  * [50 Shades of Support: A Device-Centric Analysis of Android Security Updates](https://www.ndss-symposium.org/ndss-paper/50-shades-of-support-a-device-centric-analysis-of-android-security-updates/)
+  * [Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack](https://www.ndss-symposium.org/ndss-paper/beyond-the-surface-uncovering-the-unprotected-components-of-android-against-overlay-attack/)
+  * [Leaking the Privacy of Groups and More: Understanding Privacy Risks of Cross-App Content Sharing in Mobile Ecosystem](https://www.ndss-symposium.org/ndss-paper/leaking-the-privacy-of-groups-and-more-understanding-privacy-risks-of-cross-app-content-sharing-in-mobile-ecosystem/)
+  * [Maginot Line: Assessing a New Cross-app Threat to PII-as-Factor Authentication in Chinese Mobile Apps](https://www.ndss-symposium.org/ndss-paper/maginot-line-assessing-a-new-cross-app-threat-to-pii-as-factor-authentication-in-chinese-mobile-apps/)
+
 ### 2023
 * ASE
   * [Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding](https://dl.acm.org/doi/10.1109/ASE56229.2023.00056)
@@ -154,6 +220,36 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps](https://sen-chen.github.io/img_cs/pdf/fse2023-iris.pdf)
   * [Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps](https://tingsu.github.io/files/fse23-PBFDroid.pdf)
   * [ViaLin: Path-Aware Dynamic Taint Analysis for Android](https://people.ece.ubc.ca/~mjulia/publications/ViaLin_FSE2023.pdf)
+
+* IEEE S&P
+  * [TEEzz: Fuzzing Trusted Applications on COTS Android Devices](https://ieeexplore.ieee.org/document/10179302/)
+  * [Understanding the (In)Security of Cross-side Face Verification Systems in Mobile Apps: A System Perspective](https://sp2023.ieee-security.org/program-papers.html)
+
+* CCS
+  * [Uncovering and Exploiting Hidden APIs in Mobile Super Apps](https://dl.acm.org/doi/10.1145/3576915.3616676)
+  * [PolicyChecker: Analyzing the GDPR Completeness of Mobile Apps' Privacy Policies](https://dl.acm.org/doi/10.1145/3576915.3623067)
+  * [The Danger of Minimum Exposures: Understanding Cross-App Information Leaks on iOS through Multi-Side-Channel Learning](https://dl.acm.org/doi/10.1145/3576915.3616655)
+  * [Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting](https://dl.acm.org/doi/10.1145/3576915.3623117)
+  * [IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis](https://dl.acm.org/doi/10.1145/3576915.3623211)
+  * [Don't Leak Your Keys: Understanding, Measuring, and Exploiting the AppSecret Leaks in Mini-Programs](https://dl.acm.org/doi/10.1145/3576915.3616591)
+
+* USENIX Security
+  * [Continuous Learning for Android Malware Detection](https://www.usenix.org/conference/usenixsecurity23/presentation/chen-yizheng)
+  * [One Size Does not Fit All: Quantifying the Risk of Malicious App Encounters for Different Android User Profiles](https://www.usenix.org/conference/usenixsecurity23/presentation/dambra)
+  * [LibScan: Towards More Precise Third-Party Library Identification for Android Applications](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-yafei)
+  * [Black-box Adversarial Example Attack towards FCG Based Android Malware Detection under Incomplete Feature Information](https://www.usenix.org/conference/usenixsecurity23/presentation/li-heng)
+  * [Eye-Shield: Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing](https://www.usenix.org/conference/usenixsecurity23/presentation/tang)
+  * [One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chao)
+  * [PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs](https://www.usenix.org/conference/usenixsecurity23/presentation/cui)
+  * [POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices](https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-lu)
+  * [Log: It's Big, It's Heavy, It's Filled with Personal Data! Measuring the Logging of Sensitive Information in the Android Ecosystem](https://www.usenix.org/conference/usenixsecurity23/presentation/lyons)
+
+* NDSS
+  * [Post-GDPR Threat Hunting on Android Phones: Dissecting OS-level Safeguards of User-unresettable Identifiers](https://www.ndss-symposium.org/ndss-paper/post-gdpr-threat-hunting-on-android-phones-dissecting-os-level-safeguards-of-user-unresettable-identifiers/)
+  * [AuthentiSense: A Scalable Behavioral Biometrics Authentication Scheme using Few-Shot Learning for Mobile Platforms](https://www.ndss-symposium.org/ndss-paper/authentisense-a-scalable-behavioral-biometrics-authentication-scheme-using-few-shot-learning-for-mobile-platforms/)
+  * [StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors](https://www.ndss-symposium.org/ndss-paper/stealthyimu-stealing-permission-protected-private-information-from-smartphone-voice-assistant-using-zero-permission-sensors/)
+  * [Hope of Delivery: Extracting User Locations From Mobile Instant Messengers](https://www.ndss-symposium.org/ndss-paper/hope-of-delivery-extracting-user-locations-from-mobile-instant-messengers/)
+  * [Thwarting Smartphone SMS Attacks at the Radio Interface Layer](https://www.ndss-symposium.org/ndss-paper/thwarting-smartphone-sms-attacks-at-the-radio-interface-layer/)
 
 ### 2022
 
@@ -517,3 +613,5 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 * [QUANTUM: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps](https://www.researchgate.net/profile/Razieh-Nokhbeh-Zaeem/publication/269305033_Automated_Generation_of_Oracles_for_Testing_User-Interaction_Features_of_Mobile_Apps/links/60071458a6fdccdcb86880c6/Automated-Generation-of-Oracles-for-Testing-User-Interaction-Features-of-Mobile-Apps.pdf) (ICST '2014)
 * [THOR: Systematic Execution of Android Test Suites in Adverse Conditions](https://cs.au.dk/~amoeller/papers/thor/paper.pdf) (ISSTA '2015)
 * [ACETON: Automated construction of energy test oracles for Android](https://reyhaneh.cs.illinois.edu/pdfs/2020_FSE_Automated.pdf) (ESEC/FSE '2020)
+
+
