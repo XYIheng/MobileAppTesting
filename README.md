@@ -44,12 +44,17 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
   * [WiDepFuzz: Finding Wi-Fi Protocol Bugs in Mobile Hotspot via Field Dependency Model](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)
 
 * ICSE
+  * [An Empirical Study on the Robustness of Android Third-Party Library Detection Tools Against Advanced Obfuscation](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
+  * [Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing](https://arxiv.org/abs/2506.17539)
+  * [LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245)
   * [Practitioner Views on Mobile App Accessibility: Practices and Challenges](https://arxiv.org/pdf/2601.14131)
   * [SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments](https://arxiv.org/abs/2603.10268)
+  * [TARIPlay: A Test Framework for AR Applications based on Interactive Area Detection in Playback Videos](https://arxiv.org/abs/2605.16544)
   * [Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning](https://conf.researchr.org/details/icse-2026/icse-2026-research-track)
   * [Towards Global Matches for Third-Party Library Detection in Android](https://cs.tulane.edu/~jming/publication/libscope-icse26/)
   * [Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)
   * [Understanding DevOps Security of Google Workspace Apps](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
+  * [WhisperCatcher: Demystifying Unauthorized and Encrypted Private Data Transmission in Android Applications](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
 
 * ISSTA
   * [Automated Classification, Root Cause Analysis, and Repair Recommendations for Failed Mobile Testing by Specialized LLM](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers)
