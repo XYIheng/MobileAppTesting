@@ -7,6 +7,7 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 
 ## Contents
 
+[2026](#2026)
 [2025](#2025)
 [2024](#2024)
 [2023](#2023)
@@ -17,13 +18,6 @@ You can also view the papers via this web page [MobileAppTesting](https://xyihen
 [2018](#2018)
 [2017](#2017)
 [2016](#2016)
-
-
-[Reproduce Flaky Tests](#reproduce-flaky-tests)
-
-[GUI Test Reduction](#gui-test-reduction)
-
-[Non-crashing Functional bugs](#non-crashing-functional-bugs)
 
 ## All papers
 
